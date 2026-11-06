@@ -1,0 +1,1304 @@
+[
+  {
+    "repository_path": "config/hyperspin/Settings/Neo Geo Pocket Color.ini",
+    "source": "D:/hyperspin1.0/Settings/Neo Geo Pocket Color.ini",
+    "source_sha256": "b5f89d0e7779a3f43be23b1e27db087780b6e8445ec4c67f46781864764b2840",
+    "published_sha256": "b5f89d0e7779a3f43be23b1e27db087780b6e8445ec4c67f46781864764b2840",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Commodore Amiga.ini",
+    "source": "D:/hyperspin1.0/Settings/Commodore Amiga.ini",
+    "source_sha256": "0161561051e37d28e284df77bb1df814712ba5d6391484b7b15d5b42ba4553ca",
+    "published_sha256": "0161561051e37d28e284df77bb1df814712ba5d6391484b7b15d5b42ba4553ca",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atari 5200.ini",
+    "source": "D:/hyperspin1.0/Settings/Atari 5200.ini",
+    "source_sha256": "0af9621001c288db8073084998945202c4a342ff37e1c25bfad93bcf6eac0fe6",
+    "published_sha256": "0af9621001c288db8073084998945202c4a342ff37e1c25bfad93bcf6eac0fe6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Gameboy Advance.ini",
+    "source": "D:/hyperspin1.0/Settings/Gameboy Advance.ini",
+    "source_sha256": "7762f3ff9900173745e5eb9c028d3d449def6e559c9339f6b64f17525e0cc243",
+    "published_sha256": "7762f3ff9900173745e5eb9c028d3d449def6e559c9339f6b64f17525e0cc243",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MAME Retro.ini",
+    "source": "D:/hyperspin1.0/Settings/MAME Retro.ini",
+    "source_sha256": "024811773b151707d31ec6a32768dd9b9a656f3f5ab7aef9f4e32cf0c7c2152e",
+    "published_sha256": "024811773b151707d31ec6a32768dd9b9a656f3f5ab7aef9f4e32cf0c7c2152e",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/TurboGrafx 16.ini",
+    "source": "D:/hyperspin1.0/Settings/TurboGrafx 16.ini",
+    "source_sha256": "c895468757cdf7661fa0d5ba3fc6186d3d5a64814b69955995073c51a241b393",
+    "published_sha256": "c895468757cdf7661fa0d5ba3fc6186d3d5a64814b69955995073c51a241b393",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Arcade Classics 4 Player.ini",
+    "source": "D:/hyperspin1.0/Settings/Arcade Classics 4 Player.ini",
+    "source_sha256": "13b9f0873b02196cad1c76a60f448a798444c78ea605e4ebda952533db73d5da",
+    "published_sha256": "13b9f0873b02196cad1c76a60f448a798444c78ea605e4ebda952533db73d5da",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Angry birds.ini",
+    "source": "D:/hyperspin1.0/Settings/Angry birds.ini",
+    "source_sha256": "27ca6be7a7b0807d12d4636be18ffb43388f688475c6811feaf22ac5eb1cd491",
+    "published_sha256": "27ca6be7a7b0807d12d4636be18ffb43388f688475c6811feaf22ac5eb1cd491",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/ScummVM.ini",
+    "source": "D:/hyperspin1.0/Settings/ScummVM.ini",
+    "source_sha256": "2aef265c24ae2d59e179da24f010deffb03c718fdaef4c97fb28819707e3f66d",
+    "published_sha256": "2aef265c24ae2d59e179da24f010deffb03c718fdaef4c97fb28819707e3f66d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atari Lynx.ini",
+    "source": "D:/hyperspin1.0/Settings/Atari Lynx.ini",
+    "source_sha256": "484a9791fa651c6ea89d362936aa8e93d7e9921ae82b2275a66a33ea2c030eb3",
+    "published_sha256": "484a9791fa651c6ea89d362936aa8e93d7e9921ae82b2275a66a33ea2c030eb3",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Amstrad CPC.ini",
+    "source": "D:/hyperspin1.0/Settings/Amstrad CPC.ini",
+    "source_sha256": "58905600e23635d2aeffede9305a7daabe97f2886b6dd898099fc09c003a7d5a",
+    "published_sha256": "58905600e23635d2aeffede9305a7daabe97f2886b6dd898099fc09c003a7d5a",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MSX.ini",
+    "source": "D:/hyperspin1.0/Settings/MSX.ini",
+    "source_sha256": "01c5e8c73a31a09b4fbc5c853182db5e5ebf0890952008fdbf309dd0d246edb7",
+    "published_sha256": "01c5e8c73a31a09b4fbc5c853182db5e5ebf0890952008fdbf309dd0d246edb7",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/CPS2.ini",
+    "source": "D:/hyperspin1.0/Settings/CPS2.ini",
+    "source_sha256": "0597631d751d3c425572f923b25c3b1d7df2eaed039176a5b06c09a0a2069197",
+    "published_sha256": "0597631d751d3c425572f923b25c3b1d7df2eaed039176a5b06c09a0a2069197",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Main Menu.ini",
+    "source": "D:/hyperspin1.0/Settings/Main Menu.ini",
+    "source_sha256": "3b6efe92bb4ff0f89401c9c7c04d65a1c9b519298e126a866e44899c0c61bec1",
+    "published_sha256": "3b6efe92bb4ff0f89401c9c7c04d65a1c9b519298e126a866e44899c0c61bec1",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Saturn.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Saturn.ini",
+    "source_sha256": "6d7b0e954f8180dccbc5c88e0b954013ecbe96c3a09fa540f962dbfa25e9a83f",
+    "published_sha256": "6d7b0e954f8180dccbc5c88e0b954013ecbe96c3a09fa540f962dbfa25e9a83f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/RadikalBikersEmu.ini",
+    "source": "D:/hyperspin1.0/Settings/RadikalBikersEmu.ini",
+    "source_sha256": "43fd05495ac81f58b26ff7384a4426ac5973da2e2cad05daafd6f308b7b09ac8",
+    "published_sha256": "43fd05495ac81f58b26ff7384a4426ac5973da2e2cad05daafd6f308b7b09ac8",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Satellaview.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Satellaview.ini",
+    "source_sha256": "c46a3fbafa1354b9bf1f502152202f2f4f65f481eb39a1c94d189ee7edca785d",
+    "published_sha256": "c46a3fbafa1354b9bf1f502152202f2f4f65f481eb39a1c94d189ee7edca785d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Attack of The Clones.ini",
+    "source": "D:/hyperspin1.0/Settings/Attack of The Clones.ini",
+    "source_sha256": "c279364cdb3e61adbcf0a21b0a660a40b2a79e98ffbca43eed263f1a456ab799",
+    "published_sha256": "c279364cdb3e61adbcf0a21b0a660a40b2a79e98ffbca43eed263f1a456ab799",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Midway Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Midway Classics.ini",
+    "source_sha256": "cc52a3ffec4c27a3d7d8bfa76f5b775b8d1dd8949b5aef5b01aebbe6c75abad5",
+    "published_sha256": "cc52a3ffec4c27a3d7d8bfa76f5b775b8d1dd8949b5aef5b01aebbe6c75abad5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/CPS1.ini",
+    "source": "D:/hyperspin1.0/Settings/CPS1.ini",
+    "source_sha256": "8fb8a6fed9b174b6c26320acc2e15f696c3e06398493a5e4a984b2a8ddc6fa1a",
+    "published_sha256": "8fb8a6fed9b174b6c26320acc2e15f696c3e06398493a5e4a984b2a8ddc6fa1a",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Neo Geo MVS.ini",
+    "source": "D:/hyperspin1.0/Settings/Neo Geo MVS.ini",
+    "source_sha256": "a1838f44e976d701dd0e5c46dccf19e6f9585f28ca9459bcea7b3349b8fb67fd",
+    "published_sha256": "a1838f44e976d701dd0e5c46dccf19e6f9585f28ca9459bcea7b3349b8fb67fd",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Williams Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Williams Classics.ini",
+    "source_sha256": "2b0c31becf0653a872ea6b0c089b493ed5470c92fe6720f27d0a84ffc88b19f0",
+    "published_sha256": "2b0c31becf0653a872ea6b0c089b493ed5470c92fe6720f27d0a84ffc88b19f0",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Data East Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Data East Classics.ini",
+    "source_sha256": "7e60f2ba68826506233d8cec625599c655d48f6c6b9d9ae16a2252d78f4b256f",
+    "published_sha256": "7e60f2ba68826506233d8cec625599c655d48f6c6b9d9ae16a2252d78f4b256f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega 32X.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega 32X.ini",
+    "source_sha256": "edd54c9a3cfc233498aa08badb16c6ad4a0e8447f8a22aec16433077f64a9998",
+    "published_sha256": "edd54c9a3cfc233498aa08badb16c6ad4a0e8447f8a22aec16433077f64a9998",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Zinc.ini",
+    "source": "D:/hyperspin1.0/Settings/Zinc.ini",
+    "source_sha256": "be5cdce56b311cc8de6bad8fe4ce5d1f4468ec2e26d9ea7e5735ef17e8396018",
+    "published_sha256": "be5cdce56b311cc8de6bad8fe4ce5d1f4468ec2e26d9ea7e5735ef17e8396018",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Neo Geo Modo Consola.ini",
+    "source": "D:/hyperspin1.0/Settings/Neo Geo Modo Consola.ini",
+    "source_sha256": "8260d8369433ae4c2684caf85cae3f8558d3640964aab12e8d64dacc20dcc7f5",
+    "published_sha256": "8260d8369433ae4c2684caf85cae3f8558d3640964aab12e8d64dacc20dcc7f5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/SNK Neo Geo Pocket Color.ini",
+    "source": "D:/hyperspin1.0/Settings/SNK Neo Geo Pocket Color.ini",
+    "source_sha256": "2eef4c866e2a15b20c13404c41463a72dd0f3ec963fbff950604c3385b27db3b",
+    "published_sha256": "2eef4c866e2a15b20c13404c41463a72dd0f3ec963fbff950604c3385b27db3b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Global Emulators.ini",
+    "source": "D:/hyperspin1.0/Settings/Global Emulators.ini",
+    "source_sha256": "332be50b575e25e6b95223c7d38289b90c2fe3677075edcd255fdaa30205b0a3",
+    "published_sha256": "332be50b575e25e6b95223c7d38289b90c2fe3677075edcd255fdaa30205b0a3",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Entertainment System.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Entertainment System.ini",
+    "source_sha256": "2882c64b634b62906ee0cbee70aae5047ce009563c1c8419b80ffe5309dc853c",
+    "published_sha256": "2882c64b634b62906ee0cbee70aae5047ce009563c1c8419b80ffe5309dc853c",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/SNK Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/SNK Classics.ini",
+    "source_sha256": "9e351b02f0d02c2fb2c87ce220841eabf17b1d9caeab24a74e4e3039e0ba1393",
+    "published_sha256": "9e351b02f0d02c2fb2c87ce220841eabf17b1d9caeab24a74e4e3039e0ba1393",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Technos.ini",
+    "source": "D:/hyperspin1.0/Settings/Technos.ini",
+    "source_sha256": "55fb3450029956b6796f2bbdec61cf83f622a0c8f3dfd08beaf294cf27729c23",
+    "published_sha256": "55fb3450029956b6796f2bbdec61cf83f622a0c8f3dfd08beaf294cf27729c23",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Peliculas.ini",
+    "source": "D:/hyperspin1.0/Settings/Peliculas.ini",
+    "source_sha256": "e51c9efdec4a70d039d1c063610d8b90443c13e2eff66341827e54e866659b30",
+    "published_sha256": "e51c9efdec4a70d039d1c063610d8b90443c13e2eff66341827e54e866659b30",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sony Playstation 2.ini",
+    "source": "D:/hyperspin1.0/Settings/Sony Playstation 2.ini",
+    "source_sha256": "ed954e96fd6912b7a05a34ffb100ccaa7ea7b5d42d8f22fcd1ef0a42e63bb193",
+    "published_sha256": "ed954e96fd6912b7a05a34ffb100ccaa7ea7b5d42d8f22fcd1ef0a42e63bb193",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/DESLIGAR.ini",
+    "source": "D:/hyperspin1.0/Settings/DESLIGAR.ini",
+    "source_sha256": "457998ca0849f11a205ca4745ea45b410c5513acfc9069787bb1289762a2cbec",
+    "published_sha256": "457998ca0849f11a205ca4745ea45b410c5513acfc9069787bb1289762a2cbec",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/AAE.ini",
+    "source": "D:/hyperspin1.0/Settings/AAE.ini",
+    "source_sha256": "0150b469d512d9d1cfde40b9ae9a78e4107e2cc6186324d54c1336c36c2def51",
+    "published_sha256": "0150b469d512d9d1cfde40b9ae9a78e4107e2cc6186324d54c1336c36c2def51",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sharp X1.ini",
+    "source": "D:/hyperspin1.0/Settings/Sharp X1.ini",
+    "source_sha256": "6b2649c49f5c78f4e2a5f2140a71f1322f8869c26e974bbd76de6298743b370d",
+    "published_sha256": "6b2649c49f5c78f4e2a5f2140a71f1322f8869c26e974bbd76de6298743b370d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Famicom.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Famicom.ini",
+    "source_sha256": "80b28c0626266ccd9ce0c8a7540f8fa6bb8d9516a8cc55aec8a25656c77a5e9e",
+    "published_sha256": "80b28c0626266ccd9ce0c8a7540f8fa6bb8d9516a8cc55aec8a25656c77a5e9e",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Future Pinball.ini",
+    "source": "D:/hyperspin1.0/Settings/Future Pinball.ini",
+    "source_sha256": "be0c5f1cf8618614dbe20177d70b3136229b17610c7580a9bfbcf140451ac442",
+    "published_sha256": "be0c5f1cf8618614dbe20177d70b3136229b17610c7580a9bfbcf140451ac442",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/PC GAMES.ini",
+    "source": "D:/hyperspin1.0/Settings/PC GAMES.ini",
+    "source_sha256": "ead3078b3a8e10f179f587736900797efaf7a32d3ce7185c6231925efccdfa55",
+    "published_sha256": "ead3078b3a8e10f179f587736900797efaf7a32d3ce7185c6231925efccdfa55",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/zinc original.ini",
+    "source": "D:/hyperspin1.0/Settings/zinc original.ini",
+    "source_sha256": "dd9349f51b508c0cdb5a4e024d1c93cba09db69881e9bed8a5d2cfa26f61054f",
+    "published_sha256": "dd9349f51b508c0cdb5a4e024d1c93cba09db69881e9bed8a5d2cfa26f61054f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Commodore Amiga CD32.ini",
+    "source": "D:/hyperspin1.0/Settings/Commodore Amiga CD32.ini",
+    "source_sha256": "f9eb5c610f3f7094b65305cce8189a79b7ab2101c7d2ffd0b7b2291a96ec08aa",
+    "published_sha256": "f9eb5c610f3f7094b65305cce8189a79b7ab2101c7d2ffd0b7b2291a96ec08aa",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/HyperLaunch.ini",
+    "source": "D:/hyperspin1.0/Settings/HyperLaunch.ini",
+    "source_sha256": "44518f217d1a111614a7bc4ea8f2089900f4383ab99743e60e8bad2eafb292a7",
+    "published_sha256": "44518f217d1a111614a7bc4ea8f2089900f4383ab99743e60e8bad2eafb292a7",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Game & Watch.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Game & Watch.ini",
+    "source_sha256": "4723d032a1761d2421b38da5a343f9579a306374f2cbbcfdb3e00103776116c7",
+    "published_sha256": "4723d032a1761d2421b38da5a343f9579a306374f2cbbcfdb3e00103776116c7",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Hikaru.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Hikaru.ini",
+    "source_sha256": "fa171b06eade76221d1567707df583c8474dd1ae0f176fe151d64718b4f8e525",
+    "published_sha256": "fa171b06eade76221d1567707df583c8474dd1ae0f176fe151d64718b4f8e525",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Pinball Arcade.ini",
+    "source": "D:/hyperspin1.0/Settings/Pinball Arcade.ini",
+    "source_sha256": "6dbed734c8ad4f5e7ad916e659ddc25cd7af3c6b0dac17adf8cb81f44bfd7159",
+    "published_sha256": "6dbed734c8ad4f5e7ad916e659ddc25cd7af3c6b0dac17adf8cb81f44bfd7159",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo DS.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo DS.ini",
+    "source_sha256": "a353234691f2c6b9867b6c72cf8e9b11cb59ad97164cb1535603841b787f1077",
+    "published_sha256": "a353234691f2c6b9867b6c72cf8e9b11cb59ad97164cb1535603841b787f1077",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Touhou project.ini",
+    "source": "D:/hyperspin1.0/Settings/Touhou project.ini",
+    "source_sha256": "491f2f0d5da813a230546612d45ee7f53edf0d79079ce2c097e16abcc351689d",
+    "published_sha256": "491f2f0d5da813a230546612d45ee7f53edf0d79079ce2c097e16abcc351689d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Toaplan.ini",
+    "source": "D:/hyperspin1.0/Settings/Toaplan.ini",
+    "source_sha256": "fabd8b12e758a6f34f86a9da51fed36bdfdb2779b13ad6a2d7eca6c5068aac79",
+    "published_sha256": "fabd8b12e758a6f34f86a9da51fed36bdfdb2779b13ad6a2d7eca6c5068aac79",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Technos Nintendo.ini",
+    "source": "D:/hyperspin1.0/Settings/Technos Nintendo.ini",
+    "source_sha256": "5bc59df5b092dde729509f6808ee5c1d2f94fc2fb1600e955f5c1f84632fd18b",
+    "published_sha256": "5bc59df5b092dde729509f6808ee5c1d2f94fc2fb1600e955f5c1f84632fd18b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Taito Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Taito Classics.ini",
+    "source_sha256": "5cf169d90334ddd1b3a6d87a108412d501ae25ffbee31cee122f10d04c13efa4",
+    "published_sha256": "5cf169d90334ddd1b3a6d87a108412d501ae25ffbee31cee122f10d04c13efa4",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sony Playstation.ini",
+    "source": "D:/hyperspin1.0/Settings/Sony Playstation.ini",
+    "source_sha256": "86ee8c262f253bd6ff6d6187fc4749ff973cdb4f43661193df857b266fad38c9",
+    "published_sha256": "86ee8c262f253bd6ff6d6187fc4749ff973cdb4f43661193df857b266fad38c9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Neo Geo.ini",
+    "source": "D:/hyperspin1.0/Settings/Neo Geo.ini",
+    "source_sha256": "063ba269f0f59f5f46cec16de9a17d85165e300744d4a03dab23f551391324d9",
+    "published_sha256": "063ba269f0f59f5f46cec16de9a17d85165e300744d4a03dab23f551391324d9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Jukebox.ini",
+    "source": "D:/hyperspin1.0/Settings/Jukebox.ini",
+    "source_sha256": "8aafac0f3cd5ee7e1e0b27e29d105a68c5bce87b714ca49f97c46b51cb0332f3",
+    "published_sha256": "8aafac0f3cd5ee7e1e0b27e29d105a68c5bce87b714ca49f97c46b51cb0332f3",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Pop Cap.ini",
+    "source": "D:/hyperspin1.0/Settings/Pop Cap.ini",
+    "source_sha256": "747cc733f539e5e0cbfdb8a4e06e340e1473bd9d1418c1fc31ffacf0394cec65",
+    "published_sha256": "747cc733f539e5e0cbfdb8a4e06e340e1473bd9d1418c1fc31ffacf0394cec65",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Magnavox Odyssey 2.ini",
+    "source": "D:/hyperspin1.0/Settings/Magnavox Odyssey 2.ini",
+    "source_sha256": "37d4d3a29a0b799d00cf447ed0d916e518bfc5cc8f02286d7cc7f092d4a62a05",
+    "published_sha256": "37d4d3a29a0b799d00cf447ed0d916e518bfc5cc8f02286d7cc7f092d4a62a05",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Naomi.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Naomi.ini",
+    "source_sha256": "2e85b29a8fc376e086b3d725d1130a745b27f21e4c1a524025a143e4cc0a1fed",
+    "published_sha256": "2e85b29a8fc376e086b3d725d1130a745b27f21e4c1a524025a143e4cc0a1fed",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atlus.ini",
+    "source": "D:/hyperspin1.0/Settings/Atlus.ini",
+    "source_sha256": "d10fba1841262cf9e2c5027f3aa7d21a526eb289d893e355086e564fe71fdab9",
+    "published_sha256": "d10fba1841262cf9e2c5027f3aa7d21a526eb289d893e355086e564fe71fdab9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sharp X68000.ini",
+    "source": "D:/hyperspin1.0/Settings/Sharp X68000.ini",
+    "source_sha256": "a54a8aac7642eafbdca4f2c1b566f3b7797d5b537a1f223086b9849f4ddb7bed",
+    "published_sha256": "a54a8aac7642eafbdca4f2c1b566f3b7797d5b537a1f223086b9849f4ddb7bed",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Capcom Play System III.ini",
+    "source": "D:/hyperspin1.0/Settings/Capcom Play System III.ini",
+    "source_sha256": "64c76f907dd1ea916fa840cecb61e81efb26af220622ac3eedfb9899989a8ae9",
+    "published_sha256": "64c76f907dd1ea916fa840cecb61e81efb26af220622ac3eedfb9899989a8ae9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/visual pinball.ini",
+    "source": "D:/hyperspin1.0/Settings/visual pinball.ini",
+    "source_sha256": "03f5c56f77af53f84556c6c5525ad0db63df8f74801cb01815ac299b5f9f3618",
+    "published_sha256": "03f5c56f77af53f84556c6c5525ad0db63df8f74801cb01815ac299b5f9f3618",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sony Playstation Minis.ini",
+    "source": "D:/hyperspin1.0/Settings/Sony Playstation Minis.ini",
+    "source_sha256": "ed93e3a028896c802c555e1aed4e35ff72de31effbe1c8a6808b3ae5ee1cea39",
+    "published_sha256": "ed93e3a028896c802c555e1aed4e35ff72de31effbe1c8a6808b3ae5ee1cea39",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Super Famicom.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Super Famicom.ini",
+    "source_sha256": "37fddb91e7324f2073fe853809a8f7dda270096ecf3b66f7aa309aec8a136a91",
+    "published_sha256": "37fddb91e7324f2073fe853809a8f7dda270096ecf3b66f7aa309aec8a136a91",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/NEC PC Engine CD.ini",
+    "source": "D:/hyperspin1.0/Settings/NEC PC Engine CD.ini",
+    "source_sha256": "f3962e1629aad62c60b976908a5439c56573cc6ae77e90eb0610a7e84a453955",
+    "published_sha256": "f3962e1629aad62c60b976908a5439c56573cc6ae77e90eb0610a7e84a453955",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Gamecube.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Gamecube.ini",
+    "source_sha256": "0188a8da20d560725ce4b195e6dcf5e3c551a6549e5bf3ea759bc319a58584f3",
+    "published_sha256": "0188a8da20d560725ce4b195e6dcf5e3c551a6549e5bf3ea759bc319a58584f3",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Amstrad GX4000.ini",
+    "source": "D:/hyperspin1.0/Settings/Amstrad GX4000.ini",
+    "source_sha256": "e27fa0b31931f1170cc6fb35c2f22769acb1bedd3d79979ae64d816df6a7f3d1",
+    "published_sha256": "e27fa0b31931f1170cc6fb35c2f22769acb1bedd3d79979ae64d816df6a7f3d1",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Cave.ini",
+    "source": "D:/hyperspin1.0/Settings/Cave.ini",
+    "source_sha256": "6430bc8e37a3d31e530b6de48d8cf39b19120e98b84001a0adace5ecdb905a15",
+    "published_sha256": "6430bc8e37a3d31e530b6de48d8cf39b19120e98b84001a0adace5ecdb905a15",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Spectrum.ini",
+    "source": "D:/hyperspin1.0/Settings/Spectrum.ini",
+    "source_sha256": "c29cca9c1ca5cae08564790a52f51885c336c8e704c532325a885c377e7456a7",
+    "published_sha256": "c29cca9c1ca5cae08564790a52f51885c336c8e704c532325a885c377e7456a7",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Philips CD-i.ini",
+    "source": "D:/hyperspin1.0/Settings/Philips CD-i.ini",
+    "source_sha256": "e11586052de827b2447c6fde50bb4547072c562832c227c9523de5426e8c2a5b",
+    "published_sha256": "e11586052de827b2447c6fde50bb4547072c562832c227c9523de5426e8c2a5b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Technos Arcade.ini",
+    "source": "D:/hyperspin1.0/Settings/Technos Arcade.ini",
+    "source_sha256": "4b976526af3349b6794c4092d2647bc7eb87d7a89e9c8a251da063c41b24d680",
+    "published_sha256": "4b976526af3349b6794c4092d2647bc7eb87d7a89e9c8a251da063c41b24d680",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Neo Geo AES.ini",
+    "source": "D:/hyperspin1.0/Settings/Neo Geo AES.ini",
+    "source_sha256": "539ea78a9fd1deb6d77c67db99a78b1b46c1b88b64696cf3f7c434e7f4bab5cb",
+    "published_sha256": "539ea78a9fd1deb6d77c67db99a78b1b46c1b88b64696cf3f7c434e7f4bab5cb",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Ultrastar Deluxe.ini",
+    "source": "D:/hyperspin1.0/Settings/Ultrastar Deluxe.ini",
+    "source_sha256": "911434d9244204f0c985353f65d65bd733a9a1f70b23a68678d5f1f384713c4d",
+    "published_sha256": "911434d9244204f0c985353f65d65bd733a9a1f70b23a68678d5f1f384713c4d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Konami Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Konami Classics.ini",
+    "source_sha256": "c6f62c6cf2822fef91022c29f492ad12f84200a70a61ed397ad82e54537f7dca",
+    "published_sha256": "c6f62c6cf2822fef91022c29f492ad12f84200a70a61ed397ad82e54537f7dca",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MAME Online.ini",
+    "source": "D:/hyperspin1.0/Settings/MAME Online.ini",
+    "source_sha256": "a90aa0b4465d58c077604af4adba03548856a4f503319015ab9998f86165d71f",
+    "published_sha256": "a90aa0b4465d58c077604af4adba03548856a4f503319015ab9998f86165d71f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Betabrite.ini",
+    "source": "D:/hyperspin1.0/Settings/Betabrite.ini",
+    "source_sha256": "d172020fabd38e6a672b4efe25b449ddbc76a03e7b922e4c2df93004ee24e67b",
+    "published_sha256": "d172020fabd38e6a672b4efe25b449ddbc76a03e7b922e4c2df93004ee24e67b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Apple II.ini",
+    "source": "D:/hyperspin1.0/Settings/Apple II.ini",
+    "source_sha256": "168c07b8737745ccbaabade8d7bde503084cbee22cb361f1b82cc6d594618b73",
+    "published_sha256": "168c07b8737745ccbaabade8d7bde503084cbee22cb361f1b82cc6d594618b73",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/SHOTGUN GAMES.ini",
+    "source": "D:/hyperspin1.0/Settings/SHOTGUN GAMES.ini",
+    "source_sha256": "ec441d8cedc6aa4ec0de6d8e2a8d4830eb83336138753674d513aeea50ab58d8",
+    "published_sha256": "ec441d8cedc6aa4ec0de6d8e2a8d4830eb83336138753674d513aeea50ab58d8",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo 64DD.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo 64DD.ini",
+    "source_sha256": "fd899dc2b746eaf91b31b0b79edd8e9de892af000fa0788d805afdc5b9097032",
+    "published_sha256": "fd899dc2b746eaf91b31b0b79edd8e9de892af000fa0788d805afdc5b9097032",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/ColecoVision.ini",
+    "source": "D:/hyperspin1.0/Settings/ColecoVision.ini",
+    "source_sha256": "8a2750f6722467788d90a4cb15874c43268be6b36e958b1a67a7f7b9827c6e6d",
+    "published_sha256": "8a2750f6722467788d90a4cb15874c43268be6b36e958b1a67a7f7b9827c6e6d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/TurboGrafx CD.ini",
+    "source": "D:/hyperspin1.0/Settings/TurboGrafx CD.ini",
+    "source_sha256": "aba05702536de57ad69a1d47772d9c54889ad4c61c23895f923d9b666c461d0d",
+    "published_sha256": "aba05702536de57ad69a1d47772d9c54889ad4c61c23895f923d9b666c461d0d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Irem Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Irem Classics.ini",
+    "source_sha256": "967c5d6d1f9e297f8a10bfad7b2684af45b930760fc8a7b94ddf49c20ce42534",
+    "published_sha256": "967c5d6d1f9e297f8a10bfad7b2684af45b930760fc8a7b94ddf49c20ce42534",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Pinball FX2.ini",
+    "source": "D:/hyperspin1.0/Settings/Pinball FX2.ini",
+    "source_sha256": "cf8d0d74bfead91ae66403681f514fcb057e1cc07e6c1e08cac18a2ddaab9bfc",
+    "published_sha256": "cf8d0d74bfead91ae66403681f514fcb057e1cc07e6c1e08cac18a2ddaab9bfc",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Master System.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Master System.ini",
+    "source_sha256": "b1b3c7cc3d0b69e53892784ca75b480842ab64b6b097d1625c78da0a75220b78",
+    "published_sha256": "b1b3c7cc3d0b69e53892784ca75b480842ab64b6b097d1625c78da0a75220b78",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Super Nintendo Entertainment System.ini",
+    "source": "D:/hyperspin1.0/Settings/Super Nintendo Entertainment System.ini",
+    "source_sha256": "71a10c042527b7f58f3ec4b5a37daf8078150e5441467f06dea964ef95255a80",
+    "published_sha256": "71a10c042527b7f58f3ec4b5a37daf8078150e5441467f06dea964ef95255a80",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/GCE Vectrex.ini",
+    "source": "D:/hyperspin1.0/Settings/GCE Vectrex.ini",
+    "source_sha256": "f9ce6a3a1481499fef0eb64e59606737b9945f55a037eb858aa713b0964e0221",
+    "published_sha256": "f9ce6a3a1481499fef0eb64e59606737b9945f55a037eb858aa713b0964e0221",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Famicom Disk System.ini",
+    "source": "D:/hyperspin1.0/Settings/Famicom Disk System.ini",
+    "source_sha256": "dc667a0dbda18f8960a2483c2350c4438bf1a1f9e37bf1613dff3e8804dec9bb",
+    "published_sha256": "dc667a0dbda18f8960a2483c2350c4438bf1a1f9e37bf1613dff3e8804dec9bb",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Microsoft MSX.ini",
+    "source": "D:/hyperspin1.0/Settings/Microsoft MSX.ini",
+    "source_sha256": "16565c0c6273c7fc33713785dbc7d08d8a1b014b90ad0b70a25d73384cefc4b5",
+    "published_sha256": "16565c0c6273c7fc33713785dbc7d08d8a1b014b90ad0b70a25d73384cefc4b5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/SG-1000.ini",
+    "source": "D:/hyperspin1.0/Settings/SG-1000.ini",
+    "source_sha256": "d46653d7577dd48d40c14da5bdd032a19bdd9c90a2ad56ab25a3a3fe9e886240",
+    "published_sha256": "d46653d7577dd48d40c14da5bdd032a19bdd9c90a2ad56ab25a3a3fe9e886240",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MAME.ini",
+    "source": "D:/hyperspin1.0/Settings/MAME.ini",
+    "source_sha256": "2ee56ba48c32ccab4315d1a396131d0fe23c2ea099b5c4682c193d31bf02d054",
+    "published_sha256": "2ee56ba48c32ccab4315d1a396131d0fe23c2ea099b5c4682c193d31bf02d054",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Namco Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Namco Classics.ini",
+    "source_sha256": "cd12389add07c89727288d9d4226dc6852d9cd489107a7319b3a86090a2c5492",
+    "published_sha256": "cd12389add07c89727288d9d4226dc6852d9cd489107a7319b3a86090a2c5492",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Emerson Arcadia 2001.ini",
+    "source": "D:/hyperspin1.0/Settings/Emerson Arcadia 2001.ini",
+    "source_sha256": "d9658bd97205a5675cd48ae9c995f5219f05115152eb79ca49856b17804d2e6f",
+    "published_sha256": "d9658bd97205a5675cd48ae9c995f5219f05115152eb79ca49856b17804d2e6f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Brezzasoft Crystal System.ini",
+    "source": "D:/hyperspin1.0/Settings/Brezzasoft Crystal System.ini",
+    "source_sha256": "c535e76c51f2901fe18c7facc748a54abca12754513a8ba58c1acbab94b2134f",
+    "published_sha256": "c535e76c51f2901fe18c7facc748a54abca12754513a8ba58c1acbab94b2134f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Genesis.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Genesis.ini",
+    "source_sha256": "54f8374fd27066de4099fc19d5a4912421843066a25a3bcac4b647ba9873ffc7",
+    "published_sha256": "54f8374fd27066de4099fc19d5a4912421843066a25a3bcac4b647ba9873ffc7",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/BANPRESTO.ini",
+    "source": "D:/hyperspin1.0/Settings/BANPRESTO.ini",
+    "source_sha256": "95c9c6d15ccd49cb7ee3aa2516feb36cef6933eacaa587e67bb3f54b0c555180",
+    "published_sha256": "95c9c6d15ccd49cb7ee3aa2516feb36cef6933eacaa587e67bb3f54b0c555180",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/American Laser Games.ini",
+    "source": "D:/hyperspin1.0/Settings/American Laser Games.ini",
+    "source_sha256": "d979c4bbda5f76733b1e7be0fe8bf046fa086d91342abd3fd91b57c400c5902c",
+    "published_sha256": "d979c4bbda5f76733b1e7be0fe8bf046fa086d91342abd3fd91b57c400c5902c",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Gameboy Color.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Gameboy Color.ini",
+    "source_sha256": "67d535aff6c71dea92106b966c6058bd46af684d078c881a88d0090d7a4b2689",
+    "published_sha256": "67d535aff6c71dea92106b966c6058bd46af684d078c881a88d0090d7a4b2689",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Classics.ini",
+    "source_sha256": "59c4a9d838b5f9a60f7522c03c5d2f0999dc07d463d0536650765a66f64d9220",
+    "published_sha256": "59c4a9d838b5f9a60f7522c03c5d2f0999dc07d463d0536650765a66f64d9220",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega CD.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega CD.ini",
+    "source_sha256": "a3111444f0e5665e215372f0500e791e83c1950890db973c38f6050b7ccd5872",
+    "published_sha256": "a3111444f0e5665e215372f0500e791e83c1950890db973c38f6050b7ccd5872",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Funtech Super Acan.ini",
+    "source": "D:/hyperspin1.0/Settings/Funtech Super Acan.ini",
+    "source_sha256": "7d039bfa9b9b712d849f9f37a6368908411532ec9ce0ff577826e36e6ebdaaaa",
+    "published_sha256": "7d039bfa9b9b712d849f9f37a6368908411532ec9ce0ff577826e36e6ebdaaaa",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Amstrad.ini",
+    "source": "D:/hyperspin1.0/Settings/Amstrad.ini",
+    "source_sha256": "6e4ffe204e09be74af350dc2ef61e03c6e7b39d9d472908eceb1d9b7e161e60d",
+    "published_sha256": "6e4ffe204e09be74af350dc2ef61e03c6e7b39d9d472908eceb1d9b7e161e60d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Namco sistem 22.ini",
+    "source": "D:/hyperspin1.0/Settings/Namco sistem 22.ini",
+    "source_sha256": "8d16f99832d6f6238990eb34c8a7e34633695c4d49e5b655648f97d4cbd788cc",
+    "published_sha256": "8d16f99832d6f6238990eb34c8a7e34633695c4d49e5b655648f97d4cbd788cc",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Bandai WonderSwan Color.ini",
+    "source": "D:/hyperspin1.0/Settings/Bandai WonderSwan Color.ini",
+    "source_sha256": "f18629ee4c0fd8794e6d3709574880db35d296952f3a2691668ec6aabad52c1d",
+    "published_sha256": "f18629ee4c0fd8794e6d3709574880db35d296952f3a2691668ec6aabad52c1d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Full Sega ST-V.ini",
+    "source": "D:/hyperspin1.0/Settings/Full Sega ST-V.ini",
+    "source_sha256": "4d270b62a643558ad1c3b4099f5d4298bf28848f46e5683a17033cb7f74bfdf4",
+    "published_sha256": "4d270b62a643558ad1c3b4099f5d4298bf28848f46e5683a17033cb7f74bfdf4",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Daphne.ini",
+    "source": "D:/hyperspin1.0/Settings/Daphne.ini",
+    "source_sha256": "28f05d243826228aff8086267bbfc8be59603007a5cfcd28dd8a6f140c1dbde6",
+    "published_sha256": "28f05d243826228aff8086267bbfc8be59603007a5cfcd28dd8a6f140c1dbde6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Dreamcast.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Dreamcast.ini",
+    "source_sha256": "74c06fdd18fa2f61e03a9bac9f63029ac2aa7d78b4dbb0652f287a9d44be99ca",
+    "published_sha256": "74c06fdd18fa2f61e03a9bac9f63029ac2aa7d78b4dbb0652f287a9d44be99ca",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atomiswave.ini",
+    "source": "D:/hyperspin1.0/Settings/Atomiswave.ini",
+    "source_sha256": "7ee4c7e69f36bce24d4422f5f7feb1a78ad62a9fe6b4ce6c09b8bcaa114ece7c",
+    "published_sha256": "7ee4c7e69f36bce24d4422f5f7feb1a78ad62a9fe6b4ce6c09b8bcaa114ece7c",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Settings.ini",
+    "source": "D:/hyperspin1.0/Settings/Settings.ini",
+    "source_sha256": "5728ddb32d100eededf43af4bd29f13f187b8ae27fc6f95cec27e7c571daf712",
+    "published_sha256": "5728ddb32d100eededf43af4bd29f13f187b8ae27fc6f95cec27e7c571daf712",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Game Gear.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Game Gear.ini",
+    "source_sha256": "80c304c5901109ac7785d9077ab104c7fef0e92eb10ae4bd5b6f12facf0883e9",
+    "published_sha256": "80c304c5901109ac7785d9077ab104c7fef0e92eb10ae4bd5b6f12facf0883e9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/NEC PC Engine.ini",
+    "source": "D:/hyperspin1.0/Settings/NEC PC Engine.ini",
+    "source_sha256": "43d566151a8bbab1f2cff820ad6749aac506449f6fdb80baad8236fa9c579464",
+    "published_sha256": "43d566151a8bbab1f2cff820ad6749aac506449f6fdb80baad8236fa9c579464",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo 64.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo 64.ini",
+    "source_sha256": "45e5074af9fb91a3915f0a0f41d221a44433a7e17929bcb5bbee6823474f9703",
+    "published_sha256": "45e5074af9fb91a3915f0a0f41d221a44433a7e17929bcb5bbee6823474f9703",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Taito Type X2.ini",
+    "source": "D:/hyperspin1.0/Settings/Taito Type X2.ini",
+    "source_sha256": "cbbcb31f27d58642dea0369ec95f32292a256b6b15776611477dfc4c06f2eecb",
+    "published_sha256": "cbbcb31f27d58642dea0369ec95f32292a256b6b15776611477dfc4c06f2eecb",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/PolyGame Master.ini",
+    "source": "D:/hyperspin1.0/Settings/PolyGame Master.ini",
+    "source_sha256": "6838c1593247e5888f0a4e96b7ea85ebe5abfebe0bc1f713f508421db1f80469",
+    "published_sha256": "6838c1593247e5888f0a4e96b7ea85ebe5abfebe0bc1f713f508421db1f80469",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atari Jaguar.ini",
+    "source": "D:/hyperspin1.0/Settings/Atari Jaguar.ini",
+    "source_sha256": "d81efb096ba2a407e468267c321e13d85555e916f338f2973854a8c9ecdf8f7a",
+    "published_sha256": "d81efb096ba2a407e468267c321e13d85555e916f338f2973854a8c9ecdf8f7a",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Virtual Boy.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Virtual Boy.ini",
+    "source_sha256": "253814661c0f61ae66ba2ca24f865c8c62189aac9517a041d8e50822a8187b2b",
+    "published_sha256": "253814661c0f61ae66ba2ca24f865c8c62189aac9517a041d8e50822a8187b2b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Locomalito Games.ini",
+    "source": "D:/hyperspin1.0/Settings/Locomalito Games.ini",
+    "source_sha256": "759d3402d008f756f7484be4ca251b8011f04f80dbef5621e03df24796ddc8c6",
+    "published_sha256": "759d3402d008f756f7484be4ca251b8011f04f80dbef5621e03df24796ddc8c6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Neo Geo Pocket.ini",
+    "source": "D:/hyperspin1.0/Settings/Neo Geo Pocket.ini",
+    "source_sha256": "14072c2486511821dc4f3899582fa3fd93175b3ab82a93df4fee977747c4d30e",
+    "published_sha256": "14072c2486511821dc4f3899582fa3fd93175b3ab82a93df4fee977747c4d30e",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Capcom Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Capcom Classics.ini",
+    "source_sha256": "e5701f30ed207de62e0b32690eb533999effd0d5a74eaaff0c7713035eb18fb4",
+    "published_sha256": "e5701f30ed207de62e0b32690eb533999effd0d5a74eaaff0c7713035eb18fb4",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Microsoft MSX2.ini",
+    "source": "D:/hyperspin1.0/Settings/Microsoft MSX2.ini",
+    "source_sha256": "88abcb1d4bb7b381782820b81d34d132cccef5a14d70f86e34e70cf5fbd48631",
+    "published_sha256": "88abcb1d4bb7b381782820b81d34d132cccef5a14d70f86e34e70cf5fbd48631",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Sufami Turbo.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Sufami Turbo.ini",
+    "source_sha256": "c2d8fb09e2b505e1c07590069da4cd0a7c2c56dc2afe7da87fd31cfba11595e0",
+    "published_sha256": "c2d8fb09e2b505e1c07590069da4cd0a7c2c56dc2afe7da87fd31cfba11595e0",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Model 2.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Model 2.ini",
+    "source_sha256": "6e297892f4290725e9afa7e998123717dacdd10317307ab9534e879aa934036b",
+    "published_sha256": "6e297892f4290725e9afa7e998123717dacdd10317307ab9534e879aa934036b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/BOR.ini",
+    "source": "D:/hyperspin1.0/Settings/BOR.ini",
+    "source_sha256": "b2af530acbf978312f8521c2ae880c1084acb8cb0c04f809212a0fdcd62200c5",
+    "published_sha256": "b2af530acbf978312f8521c2ae880c1084acb8cb0c04f809212a0fdcd62200c5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/NEC PC-FX.ini",
+    "source": "D:/hyperspin1.0/Settings/NEC PC-FX.ini",
+    "source_sha256": "760b690b079d5c8354df6490ae2dfec4d40c2f46832a62d8f9944217253f9d81",
+    "published_sha256": "760b690b079d5c8354df6490ae2dfec4d40c2f46832a62d8f9944217253f9d81",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Model 3.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Model 3.ini",
+    "source_sha256": "87c8f571c182dba44a9f387d246a7db5ba961c00457d8ef0f6bbeb663c749295",
+    "published_sha256": "87c8f571c182dba44a9f387d246a7db5ba961c00457d8ef0f6bbeb663c749295",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/NEC SuperGrafx.ini",
+    "source": "D:/hyperspin1.0/Settings/NEC SuperGrafx.ini",
+    "source_sha256": "c095182171ba4cea38c2901b326bc9b998e3e9df8533447d3765a84d793e6378",
+    "published_sha256": "c095182171ba4cea38c2901b326bc9b998e3e9df8533447d3765a84d793e6378",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Commodore CD32.ini",
+    "source": "D:/hyperspin1.0/Settings/Commodore CD32.ini",
+    "source_sha256": "35c573996a216d85a740fc7ac98b5a32efcd0b521eb659f1ee2c4748a9ccdd61",
+    "published_sha256": "35c573996a216d85a740fc7ac98b5a32efcd0b521eb659f1ee2c4748a9ccdd61",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Arcade Systems.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Arcade Systems.ini",
+    "source_sha256": "382e23167dbc67408ab9573eaf9adfb45bda7b19f3a973062672a51a4f25378f",
+    "published_sha256": "382e23167dbc67408ab9573eaf9adfb45bda7b19f3a973062672a51a4f25378f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Global HyperLaunch.ini",
+    "source": "D:/hyperspin1.0/Settings/Global HyperLaunch.ini",
+    "source_sha256": "eb62246623ea565c70d32ded8880f35b8db6ca1ae3ef9298739956073d0e5fda",
+    "published_sha256": "eb62246623ea565c70d32ded8880f35b8db6ca1ae3ef9298739956073d0e5fda",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Neo Geo CD.ini",
+    "source": "D:/hyperspin1.0/Settings/Neo Geo CD.ini",
+    "source_sha256": "a8ca904dde56ffe239e7f19b1426cd6f8b4a02760af4621d1d914633ad0485df",
+    "published_sha256": "a8ca904dde56ffe239e7f19b1426cd6f8b4a02760af4621d1d914633ad0485df",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atari Jaguar CD.ini",
+    "source": "D:/hyperspin1.0/Settings/Atari Jaguar CD.ini",
+    "source_sha256": "dfbc39ee0a7b8a9b996e02c4cf1bd8efc9e9bd9882d56c9c3dfffe2863f59225",
+    "published_sha256": "dfbc39ee0a7b8a9b996e02c4cf1bd8efc9e9bd9882d56c9c3dfffe2863f59225",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Psp.ini",
+    "source": "D:/hyperspin1.0/Settings/Psp.ini",
+    "source_sha256": "7440add4381afe44e785d68cff78a173089fac9de23535ad6403397e9ade74db",
+    "published_sha256": "7440add4381afe44e785d68cff78a173089fac9de23535ad6403397e9ade74db",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Mugen.ini",
+    "source": "D:/hyperspin1.0/Settings/Mugen.ini",
+    "source_sha256": "4f91f387595aba837241c5d885b925cca87e5da59f288c68aa6262f7f5fd4d75",
+    "published_sha256": "4f91f387595aba837241c5d885b925cca87e5da59f288c68aa6262f7f5fd4d75",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atari Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Atari Classics.ini",
+    "source_sha256": "79400f16859eb9e62876ab0a1a6dafa2d4eb373212e29d7d0a44ea369ff9f243",
+    "published_sha256": "79400f16859eb9e62876ab0a1a6dafa2d4eb373212e29d7d0a44ea369ff9f243",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo64.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo64.ini",
+    "source_sha256": "14f0ca30516ac083ce6bd876c8736e820090175ad1ee794e3af0a9a4ab7c0a61",
+    "published_sha256": "14f0ca30516ac083ce6bd876c8736e820090175ad1ee794e3af0a9a4ab7c0a61",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega Mark III.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega Mark III.ini",
+    "source_sha256": "13d13ddbd285bc2d2573e538af7713b7536bcf83baa51131416364b6c406357f",
+    "published_sha256": "13d13ddbd285bc2d2573e538af7713b7536bcf83baa51131416364b6c406357f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Microsoft MSX2+.ini",
+    "source": "D:/hyperspin1.0/Settings/Microsoft MSX2+.ini",
+    "source_sha256": "889a1448e78e72950e537a80ce1144e5eb41b1f00b6d50a52049e6200173d03a",
+    "published_sha256": "889a1448e78e72950e537a80ce1144e5eb41b1f00b6d50a52049e6200173d03a",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atari 7800.ini",
+    "source": "D:/hyperspin1.0/Settings/Atari 7800.ini",
+    "source_sha256": "706acdfdd3cae9b95199a5e052ff1261949deaf14038132a62e7dde13d291bd2",
+    "published_sha256": "706acdfdd3cae9b95199a5e052ff1261949deaf14038132a62e7dde13d291bd2",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Movies.ini",
+    "source": "D:/hyperspin1.0/Settings/Movies.ini",
+    "source_sha256": "d85878a869868a27f4de5e4693c245d14cd464f2785d3fe9a3cd6a59a2f4d19f",
+    "published_sha256": "d85878a869868a27f4de5e4693c245d14cd464f2785d3fe9a3cd6a59a2f4d19f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Kaneko.ini",
+    "source": "D:/hyperspin1.0/Settings/Kaneko.ini",
+    "source_sha256": "2722e1e2adcf807bf4251afbddbdbe815e51fe8f6885fae75fd2ca8eec3099d4",
+    "published_sha256": "2722e1e2adcf807bf4251afbddbdbe815e51fe8f6885fae75fd2ca8eec3099d4",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Nintendo Classics.ini",
+    "source": "D:/hyperspin1.0/Settings/Nintendo Classics.ini",
+    "source_sha256": "4f12e81875894fb78a3191958305396786a204366ab3ba8949402ffd07e383a9",
+    "published_sha256": "4f12e81875894fb78a3191958305396786a204366ab3ba8949402ffd07e383a9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Panasonic 3DO.ini",
+    "source": "D:/hyperspin1.0/Settings/Panasonic 3DO.ini",
+    "source_sha256": "121b282c26999e14436c07b5a6bd7dcffbebfa644d378683360abda8fb82e487",
+    "published_sha256": "121b282c26999e14436c07b5a6bd7dcffbebfa644d378683360abda8fb82e487",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Global Settings.ini",
+    "source": "D:/hyperspin1.0/Settings/Global Settings.ini",
+    "source_sha256": "ff4701b089410aad1c5e0fcf9fe2653cb8fe4e9ca106bff062d5785fdf48ef9e",
+    "published_sha256": "ff4701b089410aad1c5e0fcf9fe2653cb8fe4e9ca106bff062d5785fdf48ef9e",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Bandai WonderSwan.ini",
+    "source": "D:/hyperspin1.0/Settings/Bandai WonderSwan.ini",
+    "source_sha256": "20cff78fefc64d8839c88c10aa9d0f79dd8f2d96a160e6dd133c1ebbf1277ca3",
+    "published_sha256": "20cff78fefc64d8839c88c10aa9d0f79dd8f2d96a160e6dd133c1ebbf1277ca3",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Commodore 64.ini",
+    "source": "D:/hyperspin1.0/Settings/Commodore 64.ini",
+    "source_sha256": "ef0dbf1de2a1b5d0625fbf8fbffbdc8e4c48e69620d875776da67fbb02b300b5",
+    "published_sha256": "ef0dbf1de2a1b5d0625fbf8fbffbdc8e4c48e69620d875776da67fbb02b300b5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Gameboy.ini",
+    "source": "D:/hyperspin1.0/Settings/Gameboy.ini",
+    "source_sha256": "a7f6c0a1b11ff56dff411568616c45ec9cd948a240672b090bcb325e29dcaf67",
+    "published_sha256": "a7f6c0a1b11ff56dff411568616c45ec9cd948a240672b090bcb325e29dcaf67",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Atari 2600.ini",
+    "source": "D:/hyperspin1.0/Settings/Atari 2600.ini",
+    "source_sha256": "0888a01372b7daaccc14eef3e15c2d0ed0445a26eaff5c4ac43b4d15980a2439",
+    "published_sha256": "0888a01372b7daaccc14eef3e15c2d0ed0445a26eaff5c4ac43b4d15980a2439",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MS-DOS.ini",
+    "source": "D:/hyperspin1.0/Settings/MS-DOS.ini",
+    "source_sha256": "6ad55a247fcda50c58483e1656fd360c943297dacb6264db6dd3d1e745257745",
+    "published_sha256": "6ad55a247fcda50c58483e1656fd360c943297dacb6264db6dd3d1e745257745",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/Sega SC-3000.ini",
+    "source": "D:/hyperspin1.0/Settings/Sega SC-3000.ini",
+    "source_sha256": "6267fe8b906b0553dff86333f57d41de67b734fd1b272060558c1311d876be28",
+    "published_sha256": "6267fe8b906b0553dff86333f57d41de67b734fd1b272060558c1311d876be28",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MAME/Emulators.ini",
+    "source": "D:/hyperspin1.0/Settings/MAME/Emulators.ini",
+    "source_sha256": "2f598982aeae4ae9b40d0b27ed899c7d9dc9926b8608e1c97996f825c720f5f3",
+    "published_sha256": "2f598982aeae4ae9b40d0b27ed899c7d9dc9926b8608e1c97996f825c720f5f3",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MAME/HyperLaunch.ini",
+    "source": "D:/hyperspin1.0/Settings/MAME/HyperLaunch.ini",
+    "source_sha256": "bd8324230b131096fd504ef1c839e53b67c08b01afe6e35ef4122b2c42222a72",
+    "published_sha256": "bd8324230b131096fd504ef1c839e53b67c08b01afe6e35ef4122b2c42222a72",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/hyperspin/Settings/MAME/Games.ini",
+    "source": "D:/hyperspin1.0/Settings/MAME/Games.ini",
+    "source_sha256": "4fbb6b7c3efdc84ae7aed347b790006359768782079b0ffccafa906cc1ec6694",
+    "published_sha256": "4fbb6b7c3efdc84ae7aed347b790006359768782079b0ffccafa906cc1ec6694",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/MAME/cfg/default.cfg",
+    "source_sha256": "f3da3346ff98cdbf15d3e493c642e2c150b94b328d0d545a6ba46e6cf1e27d85",
+    "published_sha256": "f3da3346ff98cdbf15d3e493c642e2c150b94b328d0d545a6ba46e6cf1e27d85",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME/MAMEUI.ini",
+    "source": "D:/hyperspin1.0/Emulators/MAME/MAMEUI.ini",
+    "source_sha256": "69ccb6cea107cf54bd7f92bfc50868de062dfc9d4978e843cd89840571cae5d6",
+    "published_sha256": "69ccb6cea107cf54bd7f92bfc50868de062dfc9d4978e843cd89840571cae5d6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME/MAME_g.ini",
+    "source": "D:/hyperspin1.0/Emulators/MAME/MAME_g.ini",
+    "source_sha256": "b937390a8d58e8a291a71d00e16fb55113b2bac9f5ea1b359667a944f0539133",
+    "published_sha256": "b937390a8d58e8a291a71d00e16fb55113b2bac9f5ea1b359667a944f0539133",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME/ini/mame.ini",
+    "source": "D:/hyperspin1.0/Emulators/MAME/ini/mame.ini",
+    "source_sha256": "069d91a53abf8b44bd4d4d67ba0e4a7dcb5d3efaef818f7d124d10f3c583accb",
+    "published_sha256": "069d91a53abf8b44bd4d4d67ba0e4a7dcb5d3efaef818f7d124d10f3c583accb",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME Retro/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/MAME Retro/cfg/default.cfg",
+    "source_sha256": "f3da3346ff98cdbf15d3e493c642e2c150b94b328d0d545a6ba46e6cf1e27d85",
+    "published_sha256": "f3da3346ff98cdbf15d3e493c642e2c150b94b328d0d545a6ba46e6cf1e27d85",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME Retro/MAMEUI.ini",
+    "source": "D:/hyperspin1.0/Emulators/MAME Retro/MAMEUI.ini",
+    "source_sha256": "bb8ba76ae37233d9390d71d2034d907bc7d9475c93d802e7a9b87589535587ee",
+    "published_sha256": "bb8ba76ae37233d9390d71d2034d907bc7d9475c93d802e7a9b87589535587ee",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME Retro/MAME_g.ini",
+    "source": "D:/hyperspin1.0/Emulators/MAME Retro/MAME_g.ini",
+    "source_sha256": "1453ef65e1e5f716484c4a59989e8885b4e25a4e4c9d511cb83452c15edfd80c",
+    "published_sha256": "1453ef65e1e5f716484c4a59989e8885b4e25a4e4c9d511cb83452c15edfd80c",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME Retro/ini/mame.ini",
+    "source": "D:/hyperspin1.0/Emulators/MAME Retro/ini/mame.ini",
+    "source_sha256": "df995a50672d5e022e033eadd80d69818d75f79a340bacd88242114a14cd8317",
+    "published_sha256": "df995a50672d5e022e033eadd80d69818d75f79a340bacd88242114a14cd8317",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/STANDARD_padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/STANDARD_padDemul.ini",
+    "source_sha256": "2dc273d3d1056c0c1ddfbef350dab14c9dc649185d11802dadac10e389848369",
+    "published_sha256": "2dc273d3d1056c0c1ddfbef350dab14c9dc649185d11802dadac10e389848369",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/netDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/netDemul.ini",
+    "source_sha256": "0f354b30777a265fc4c2c8ce963ce5eaa5713f6981866ecc8367bdeba233022b",
+    "published_sha256": "0f354b30777a265fc4c2c8ce963ce5eaa5713f6981866ecc8367bdeba233022b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/padDemul.ini",
+    "source_sha256": "1227dcff1c2b00706b1b23c64353e8ff2a56a69db5d85ec2e6a3973576cfddfa",
+    "published_sha256": "1227dcff1c2b00706b1b23c64353e8ff2a56a69db5d85ec2e6a3973576cfddfa",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/gpuDX11.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/gpuDX11.ini",
+    "source_sha256": "3fa798215aeb9f70f3367923a03030410a2a66f5512112cb1cb7f2b312f0e2f0",
+    "published_sha256": "3fa798215aeb9f70f3367923a03030410a2a66f5512112cb1cb7f2b312f0e2f0",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/SFSTYLE_padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/SFSTYLE_padDemul.ini",
+    "source_sha256": "b3525c257e830ca85854011066115dd8a4343814e9b243a1eed0be1962ab33f6",
+    "published_sha256": "b3525c257e830ca85854011066115dd8a4343814e9b243a1eed0be1962ab33f6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/GGXSTYLE_padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/GGXSTYLE_padDemul.ini",
+    "source_sha256": "6c002cc197524b7b452d9cb3458b0902461b8bbb3f9bfadb986f26e2d0a8aac4",
+    "published_sha256": "6c002cc197524b7b452d9cb3458b0902461b8bbb3f9bfadb986f26e2d0a8aac4",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/gpuOglv3.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/gpuOglv3.ini",
+    "source_sha256": "c769316b2b3f6899b964ba6899e53b60fa24c4231bd8f042d3f89917b5a19e12",
+    "published_sha256": "c769316b2b3f6899b964ba6899e53b60fa24c4231bd8f042d3f89917b5a19e12",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/gpuDXLegacy.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/gpuDXLegacy.ini",
+    "source_sha256": "c6c4d75f539fa227e93e24cd92bb294cb8c6187317cc6c8979a7af97b6979a2d",
+    "published_sha256": "c6c4d75f539fa227e93e24cd92bb294cb8c6187317cc6c8979a7af97b6979a2d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/AllInOne.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/AllInOne.ini",
+    "source_sha256": "d751e6246c23adb16a23717736b31a0e8b8ffb8310ff55304cd85c7795610530",
+    "published_sha256": "d751e6246c23adb16a23717736b31a0e8b8ffb8310ff55304cd85c7795610530",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/settings.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/settings.ini",
+    "source_sha256": "67ba13a5e66d5a9a2d709343c25bcc8f1d766bb0f6eddc4ad5689fb9881c5695",
+    "published_sha256": "67ba13a5e66d5a9a2d709343c25bcc8f1d766bb0f6eddc4ad5689fb9881c5695",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/netBlade.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/netBlade.ini",
+    "source_sha256": "bbbca8096e07a9077f2560d9d90f1db4de80516cb767cf23778dd7e47012c479",
+    "published_sha256": "bbbca8096e07a9077f2560d9d90f1db4de80516cb767cf23778dd7e47012c479",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/gpuDXv3.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/gpuDXv3.ini",
+    "source_sha256": "06820daf14cba2571a227e6c232caa73b98ec111bf181404c9f1021534c70a17",
+    "published_sha256": "06820daf14cba2571a227e6c232caa73b98ec111bf181404c9f1021534c70a17",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/spuDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/spuDemul.ini",
+    "source_sha256": "a43fbb2250314ba526583426643d96bc96daacc73c3e64884a52902eefe5c61b",
+    "published_sha256": "a43fbb2250314ba526583426643d96bc96daacc73c3e64884a52902eefe5c61b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/DRIVING_padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/DRIVING_padDemul.ini",
+    "source_sha256": "2f90df0d4f2bc3f9ce13f314dc6c4e8b730fbca606aa24719901551b4924c751",
+    "published_sha256": "2f90df0d4f2bc3f9ce13f314dc6c4e8b730fbca606aa24719901551b4924c751",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/netPlay.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/netPlay.ini",
+    "source_sha256": "92dcb937b5764bcd18e38619c5cab8c7a247ef538f58ac0229ec9127fbb5f8de",
+    "published_sha256": "92dcb937b5764bcd18e38619c5cab8c7a247ef538f58ac0229ec9127fbb5f8de",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/Demul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/Demul.ini",
+    "source_sha256": "322035360829bc3f8f7387b1de69ffdcb46f20ce19ed86fc1380c898cb6d032b",
+    "published_sha256": "322035360829bc3f8f7387b1de69ffdcb46f20ce19ed86fc1380c898cb6d032b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/gdrCHD.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/gdrCHD.ini",
+    "source_sha256": "e1d0f7a612f733cba9bab0c5ffecea004b13ccaaeab647ab700069efe64a8065",
+    "published_sha256": "e1d0f7a612f733cba9bab0c5ffecea004b13ccaaeab647ab700069efe64a8065",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/gpuDX11old.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/gpuDX11old.ini",
+    "source_sha256": "9dc09e090997bebc67cbe8e4576726e8087632815119b1a54608526e60d20be5",
+    "published_sha256": "9dc09e090997bebc67cbe8e4576726e8087632815119b1a54608526e60d20be5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/netDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/netDemul.ini",
+    "source_sha256": "f6890b9411c01127d6302037722a377a4066ea88b770df57b2417714e1b083f5",
+    "published_sha256": "f6890b9411c01127d6302037722a377a4066ea88b770df57b2417714e1b083f5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/padDemul.ini",
+    "source_sha256": "af84727d68567f5647abc7eab6d953b15419b995461ba0d9fa135f45da54d55c",
+    "published_sha256": "af84727d68567f5647abc7eab6d953b15419b995461ba0d9fa135f45da54d55c",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/gpuDX11.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/gpuDX11.ini",
+    "source_sha256": "c052803384a2afa33297c6eb5313f76efce9c92b42734c64ba70a5e07e9c6db8",
+    "published_sha256": "c052803384a2afa33297c6eb5313f76efce9c92b42734c64ba70a5e07e9c6db8",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/gdrImage.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/gdrImage.ini",
+    "source_sha256": "e1d0f7a612f733cba9bab0c5ffecea004b13ccaaeab647ab700069efe64a8065",
+    "published_sha256": "e1d0f7a612f733cba9bab0c5ffecea004b13ccaaeab647ab700069efe64a8065",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/gpuOglv3.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/gpuOglv3.ini",
+    "source_sha256": "5f98e88fc2848c0bc428190f7d287ebc1c1bd9a029b153428eddc6c5c591bd17",
+    "published_sha256": "5f98e88fc2848c0bc428190f7d287ebc1c1bd9a029b153428eddc6c5c591bd17",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/spuDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/spuDemul.ini",
+    "source_sha256": "3c2f1a6a95d2f846232f6b5711da3468f7d66724f3ecd67dbe0e85f6b067655f",
+    "published_sha256": "3c2f1a6a95d2f846232f6b5711da3468f7d66724f3ecd67dbe0e85f6b067655f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/Demul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/Demul.ini",
+    "source_sha256": "162c581a8078f6e020c63c5bb442e56069d47d0f560874a45faedbc8693b68dc",
+    "published_sha256": "162c581a8078f6e020c63c5bb442e56069d47d0f560874a45faedbc8693b68dc",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Model 2/EMULATOR.INI",
+    "source": "D:/hyperspin1.0/Emulators/Sega Model 2/EMULATOR.INI",
+    "source_sha256": "85c73096ced883b05e3e6c94d0308c0abcd832e1496b7a92f708b2cd34220d39",
+    "published_sha256": "85c73096ced883b05e3e6c94d0308c0abcd832e1496b7a92f708b2cd34220d39",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Model 3/Config/Supermodel.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Model 3/Config/Supermodel.ini",
+    "source_sha256": "9d6434ff4f8e8341fda8e6fde22687567927877159055846f95459055b23fc1f",
+    "published_sha256": "9d6434ff4f8e8341fda8e6fde22687567927877159055846f95459055b23fc1f",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Retroarch/retroarch.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Retroarch/retroarch.cfg",
+    "source_sha256": "072830037ef5508e0660b529c06c41c5c648b1db8264d7b12cde0393dbbc1448",
+    "published_sha256": "072830037ef5508e0660b529c06c41c5c648b1db8264d7b12cde0393dbbc1448",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Retroarch/retroarch-core-options.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Retroarch/retroarch-core-options.cfg",
+    "source_sha256": "6f34fecd3b91f0e7e4043fd41ffafe1e22c6c540b989ed6fac13282e3a343f43",
+    "published_sha256": "6f34fecd3b91f0e7e4043fd41ffafe1e22c6c540b989ed6fac13282e3a343f43",
+    "sanitized": false
+  }
+]

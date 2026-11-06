@@ -1,0 +1,70 @@
+system,catalog_entries,configured_directory_file_count,configured_rom_path,configured_extensions,windows_executable
+MAME,7668,8578,D:\hyperspin1.0\Emulators\MAME Retro\Roms\,zip,mamearcade64.exe
+MAME Retro,7668,8578,D:\hyperspin1.0\Emulators\MAME Retro\Roms\,zip,mamearcade64.exe
+AAE,33,39,D:\hyperspin1.0\Emulators\AAE\roms\,zip,aae.exe
+cave,74,83,D:\hyperspin1.0\Emulators\Cave\roms\,zip,mameuifx64.exe
+CPS1,33,8578,D:\hyperspin1.0\Emulators\MAME Retro\Roms\,zip,mamearcade64.exe
+CPS2,41,8578,D:\hyperspin1.0\Emulators\MAME Retro\Roms\,zip,mamearcade64.exe
+Capcom Play System III,6,8578,D:\hyperspin1.0\Emulators\MAME Retro\Roms\,zip,mamearcade64.exe
+Mugen,16,16,D:\hyperspin1.0\Emulators\Mugen\lnk\,lnk,PCLAUNCHER.exe
+Namco sistem 22,15,26,D:\hyperspin1.0\Emulators\Namco sistem 22\roms\,zip,mamep64.exe
+BOR,9,9,D:\hyperspin1.0\Emulators\BOR\Paks\,lnk,BOR.exe
+Full Sega ST-V,37,8578,D:\hyperspin1.0\Emulators\MAME Retro\roms\,zip,mamearcade64.exe
+Sega Model 2,54,60,D:\hyperspin1.0\Emulators\Sega Model 2\Roms\,zip,EMULATOR.EXE
+Sega Model 3,22,41,D:\hyperspin1.0\Emulators\Sega Model 3\Roms\,zip,Supermodel.exe
+Sega Naomi,90,104,D:\hyperspin1.0\Emulators\Sega Naomi\roms\,zip,demul.exe
+Atomiswave,21,27,D:\hyperspin1.0\Emulators\Atomiswave\roms\,zip,demul.exe
+Neo Geo MVS,139,8578,D:\hyperspin1.0\Emulators\MAME Retro\Roms\,zip,mamearcade64.exe
+Technos Arcade,22,23,D:\hyperspin1.0\Emulators\Technos Arcade\roms\,zip,mamep64.exe
+Technos Nintendo,18,19,D:\hyperspin1.0\Emulators\Technos Nintendo\roms\,zip,nestopia.exe
+Zinc,64,78,D:\hyperspin1.0\Emulators\Zinc\roms\,zip,ZiNc.exe
+Daphne,23,26,D:\hyperspin1.0\Emulators\daphne\framefile\,"txt, bat",daphne.exe
+Amstrad GX4000,25,25,D:\hyperspin1.0\Emulators\Amstrad GX4000\ROM\,zip,WinApe.exe
+Atari 2600,648,963,D:\hyperspin1.0\Emulators\Atari 2600\roms\,zip,Retroarch.exe
+Atari 5200,72,75,D:\hyperspin1.0\Emulators\Atari 5200\roms\,zip,mess.exe
+Atari 7800,59,67,D:\hyperspin1.0\Emulators\Atari 7800\roms\,zip,Retroarch.exe
+Atari Lynx,75,75,D:\hyperspin1.0\Emulators\Atari Lynx\roms\,zip,retroarch.exe
+Atari Jaguar,47,50,D:\hyperspin1.0\Emulators\Atari Jaguar\Roms\,"jag,rom,bin,j64,7z",Retroarch.exe
+Bandai WonderSwan,110,112,D:\hyperspin1.0\Emulators\Bandai WonderSwan\roms\,zip,retroarch.exe
+Bandai WonderSwan Color,91,91,D:\hyperspin1.0\Emulators\Bandai WonderSwan Color\roms\,zip,retroarch.exe
+ColecoVision,140,173,D:\hyperspin1.0\Emulators\ColecoVision\roms\,zip,Retroarch.exe
+Commodore Amiga,1954,2888,D:\hyperspin1.0\Emulators\Commodore Amiga\Roms Amiga\,"zip,rom",WinUAELoader.exe
+Emerson Arcadia 2001,55,48,D:\hyperspin1.0\Emulators\Emerson Arcadia 2001\roms\,zip,mess.exe
+Microsoft MSX,585,585,D:\hyperspin1.0\Emulators\BlueMSX\Microsoft MSX\roms\,zip,Retroarch.exe
+Microsoft MSX2,167,177,D:\hyperspin1.0\Emulators\BlueMSX\Microsoft MSX2\roms\,zip,Retroarch.exe
+Microsoft MSX2+,26,50,D:\hyperspin1.0\Emulators\BlueMSX\Microsoft MSX2+\roms\,zip,Retroarch.exe
+NEC PC Engine,301,301,D:\hyperspin1.0\Emulators\NEC PC Engine\roms\,zip,retroarch.exe
+NEC PC Engine CD,120,120,D:\hyperspin1.0\Emulators\NEC PC Engine CD\roms\,"cue,ccd,7z",retroarch.exe
+TurboGrafx 16,94,94,D:\hyperspin1.0\Emulators\Turbo Grafx 16\Roms\,zip,retroarch.exe
+TurboGrafx CD,45,45,D:\hyperspin1.0\Emulators\TurboGrafx CD\PCE\roms\,"cue,7z",retroarch.exe
+NEC SuperGrafx,5,5,D:\hyperspin1.0\Emulators\NEC SuperGrafx\roms\,zip,retroarch.exe
+Gameboy,1798,1799,D:\hyperspin1.0\Emulators\Gameboy\roms\,"gb, zip",retroarch.exe
+Nintendo Gameboy Color,535,589,D:\hyperspin1.0\Emulators\Nintendo Game Boy Color\Roms\,zip,Retroarch.exe
+Gameboy Advance,1129,1315,D:\hyperspin1.0\Emulators\Gameboy Advance\roms\,"gba,zip",retroarch.exe
+Nintendo Famicom,1239,1239,D:\hyperspin1.0\Emulators\Nintendo Famicom\roms\,zip,Retroarch.exe
+Famicom Disk System,91,91,D:\hyperspin1.0\Emulators\Famicom Disk System\Famicom Disk System\Nestopia\roms\,"fds,zip",Retroarch.exe
+Nintendo Entertainment System,199,199,D:\hyperspin1.0\Emulators\nintendo\roms\,zip,Retroarch.exe
+Super Nintendo Entertainment System,812,819,D:\hyperspin1.0\Emulators\Super Nintendo Entertainment System\roms\,zip,retroarch.exe
+Nintendo 64,303,311,D:\hyperspin1.0\Emulators\Nintendo 64\roms\,zip,retroarch.exe
+Nintendo 64DD,8,12,D:\hyperspin1.0\Emulators\Nintendo 64DD\Roms\,"zip,bin",retroarch.exe
+SG-1000,69,81,D:\hyperspin1.0\Emulators\Sega SG-1000\roms\,zip,retroarch.exe
+Sega Game Gear,249,253,D:\hyperspin1.0\Emulators\Sega Game Gear\roms\,zip,Retroarch.exe
+Sega Master System,273,286,D:\hyperspin1.0\Emulators\Sega Master System\roms\,zip,Retroarch.exe
+Sega Genesis,813,816,D:\hyperspin1.0\Emulators\Sega Genesis\roms\,zip,Retroarch.exe
+Sega CD,162,161,D:\hyperspin1.0\Emulators\Sega CD\roms\,"cue,iso,7z",retroarch.exe
+Sega 32X,33,33,D:\hyperspin1.0\Emulators\Sega 32x\roms\,zip,retroarch.exe
+Sega Saturn,303,303,D:\hyperspin1.0\Emulators\Sega Saturn\isos\,"iso,cue,bin,ccd,7z",SSF.exe
+Sega Dreamcast,36,0,D:\hyperspin1.0\Emulators\Sega Dreamcast\nullDC_104_r22\roms\,"gdi,nrg,cdi",nullDC_Win32_Release-NoTrace.exe
+Neo Geo Pocket,8,10,D:\hyperspin1.0\Emulators\Neo Geo Pocket\Roms\,zip,retroarch.exe
+Neo Geo Pocket Color,40,40,D:\hyperspin1.0\Emulators\Neo Geo Pocket Color\Roms\,zip,retroarch.exe
+Neo Geo AES,140,8578,D:\hyperspin1.0\Emulators\MAME Retro\Roms\,zip,mamearcade64.exe
+Neo Geo CD,90,90,D:\hyperspin1.0\Emulators\Neo Geo CD\roms\,"cue,7z",neoraine32.exe
+Sony Playstation,188,0,D:\hyperspin1.0\Emulators\Sony Playstation\cdimages\,"cue,iso,bin,7z",ePSXe.exe
+Psp,14,14,D:\hyperspin1.0\Emulators\Psp\umdimages\,"iso,cso,7z",PPSSPPWindows64.exe
+Sony Playstation Minis,298,299,D:\hyperspin1.0\Emulators\Sony Playstation Minis\,"cso,iso",PPSSPPWindows64.exe
+Panasonic 3DO,225,225,D:\hyperspin1.0\Emulators\Panasonic 3DO\roms\,"iso,cue,7z",Retroarch.exe
+PC GAMES,20,20,D:\hyperspin1.0\Emulators\PC GAMES\lnk\,lnk,PCGAMES.exe
+Future Pinball,386,306,D:\hyperspin1.0\Emulators\Future Pinball\Tables\,fpt,Future Pinball.exe
+Pinball FX2,1,0,,,Game.exe
+Pinball Arcade,52,0,,,Game.exe
+Visual Pinball,47,51,D:\hyperspin1.0\Emulators\Visual Pinball\Tables\,vpt,VPinball915.exe

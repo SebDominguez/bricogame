@@ -1,0 +1,13 @@
+{
+  "HyperSpin.exe": {
+    "bytes": 8365315,
+    "sha256": "c6c5644fe29ce27248b853147412cef82f01f288d4894ebe67086b387bd9823f",
+    "declared_resource_version": "1.3.2.0"
+  },
+  "HyperLaunch.exe": {
+    "bytes": 775680,
+    "sha256": "4b3aef767b713c9dd6d7805125919091feaa1042cc180beb11ed9b6e26a23f24",
+    "embedded_script_version": "2.25c",
+    "AutoHotkey_compiler_version": "1.1.07.03"
+  }
+}

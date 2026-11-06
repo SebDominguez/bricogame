@@ -1,0 +1,27 @@
+test_id,physical_action,linux_key,evdev_code,msc_scan_hex
+1,P1 joystick up,KEY_UP,103,0x70052
+2,P1 joystick right,KEY_RIGHT,106,0x7004f
+3,P1 joystick down,KEY_DOWN,108,0x70051
+4,P1 joystick left,KEY_LEFT,105,0x70050
+5,P1 top-left button,KEY_M,50,0x70010
+6,P1 top-center button,KEY_W,17,0x7001a
+7,P1 top-right button,KEY_E,18,0x70008
+8,P1 bottom-left button,KEY_R,19,0x70015
+9,P1 bottom-center button,KEY_U,22,0x70018
+10,P1 bottom-right button,KEY_I,23,0x7000c
+11,P2 joystick up,KEY_K,37,0x7000e
+12,P2 joystick right,KEY_KP6,77,0x7005e
+13,P2 joystick down,KEY_O,24,0x70012
+14,P2 joystick left,KEY_P,25,0x70013
+15,P2 top-left button,KEY_A,30,0x70004
+16,P2 top-center button,KEY_F,33,0x70009
+17,P2 top-right button,KEY_L,38,0x7000f
+18,P2 bottom-left button,KEY_N,49,0x70011
+19,P2 bottom-center button,KEY_J,36,0x7000d
+20,P2 bottom-right button,KEY_Z,44,0x7001d
+21,P1 / one-player service button (blue),KEY_KP1,79,0x70059
+22,Exit service button (blue),KEY_ESC,1,0x70029
+23,Coin / credit service button (red),KEY_ENTER,28,0x70028
+24,P2 / two-player service button (red),KEY_KP2,80,0x7005a
+25,P1 left-side button (blue),KEY_1,2,0x7001e
+26,P2 right-side button (red),KEY_5,6,0x70022

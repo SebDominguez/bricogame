@@ -1,0 +1,54 @@
+{
+  "Windows/System32/bootres.dll": {
+    "bytes": 93184,
+    "sha256": "286bb2afb8514531e4a394b2fe07219d2b045e0999fbfc489224cca0ea2bfc92"
+  },
+  "Windows/System32/bootres~1.dll": {
+    "bytes": 2217856,
+    "sha256": "9e6354416c1103fb94441ea347d20646b3788b2afa03982f1c257975e4840c5c"
+  },
+  "Windows/System32/bootres~2.dll": {
+    "bytes": 631296,
+    "sha256": "2fb6dc02007b16a81cfc70cb3a3dcc7f1e69e3ee048b187fe4d81a6a7334c5ad"
+  },
+  "Windows/System32/bootres~3.dll": {
+    "bytes": 654848,
+    "sha256": "868147fe392ba12f29a50bc390e140019d5b8d52aa9d19462aba30ba39730c61"
+  },
+  "Windows/System32/authui.dll": {
+    "bytes": 1930240,
+    "sha256": "2f843677a587fb0eced1143a3a11eb21305418a3c9e3a9ca57ea6313ff875fc4"
+  },
+  "Windows/System32/authui_BLACK.dll": {
+    "bytes": 1930240,
+    "sha256": "2f843677a587fb0eced1143a3a11eb21305418a3c9e3a9ca57ea6313ff875fc4"
+  },
+  "Windows/System32/authui_original.dll": {
+    "bytes": 1930240,
+    "sha256": "9d5c77f6823ecabc8098e7082cf0f99d10fd4231c9a548a9c3524fd397e70691"
+  },
+  "Windows/System32/winload.exe": {
+    "bytes": 592896,
+    "sha256": "359256d631ccb83c9fb802bf4d6db395ec498c7c0c05c6ed3fee3d85c24c5841"
+  },
+  "Windows/System32/winload~1.exe": {
+    "bytes": 592896,
+    "sha256": "ee9c30c3ebd2c463abad8a7ef41c8e94eedfc6076397e79612b921fb9f9a6b4e"
+  },
+  "Windows/System32/winresume.exe": {
+    "bytes": 506880,
+    "sha256": "eae7bff22e868faee2dc3f4828236f5ff7e8604a26f5ce81df985fd9271b9576"
+  },
+  "Windows/System32/winresume~1.exe": {
+    "bytes": 518672,
+    "sha256": "abf41c7aead86b4ff4e46b221a3d9d358194c77ffed04780ecb97099ace5d787"
+  },
+  "Windows/System32/winresume~2.exe": {
+    "bytes": 506880,
+    "sha256": "6800c74bfe600b472daa366000fb66e710ae5269ea7b6400cb74de128fc05f81"
+  },
+  "Windows/System32/winresume~3.exe": {
+    "bytes": 506880,
+    "sha256": "60bc0f1d697a4947365461a8e2373bd1d6bf1c143b137f083d6eed8a20893a29"
+  }
+}

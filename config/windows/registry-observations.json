@@ -1,0 +1,24 @@
+{
+  "HKLM/SOFTWARE/Microsoft/Windows NT/CurrentVersion/Winlogon": {
+    "Shell": "C:\\Program Files (x86)\\TSheller\\tstart.exe",
+    "Userinit": "C:\\Windows\\system32\\userinit.exe,",
+    "AutoRestartShell": 1,
+    "Background": "0 0 0",
+    "DisableCAD": 1,
+    "IgnoreShiftOveride": 1,
+    "DefaultUserName": "arcade",
+    "AutoAdminLogon": "1"
+  },
+  "HKLM/SOFTWARE/TurboSheller": {
+    "FrontEnd": "D:\\hyperspin1.0\\HyperSpin.exe"
+  },
+  "HKLM/SYSTEM/ControlSet001/Control/Keyboard Layout": {
+    "Scancode Map": {
+      "encoding": "hex",
+      "value": "0000000000000000020000000f00380000000000"
+    }
+  },
+  "HKLM/SOFTWARE/Microsoft/Windows/CurrentVersion/Authentication/LogonUI/Background": {
+    "OEMBackground": 0
+  }
+}

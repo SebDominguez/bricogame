@@ -1,0 +1,1 @@
+Owner-led documentation and configuration of a Bricogame arcade cabinet, following a poor support experience and a misconfigured paid replacement disk. Helping owners understand, repair and improve their setup. Future Batocera automation is being considered. Work in progress.
