@@ -15,3 +15,7 @@ Source data may contain redundant profiles and conflicting overrides. Original a
 Potential credentials in recognized fields are removed when populated. Private LAN IP/MAC values are replaced with placeholders. Any altered file is identified by differing source/published hashes and the `sanitized` flag in [the provenance record](../metadata/config-provenance.json). Such placeholders may require local adjustment before a file can be used.
 
 The repository excludes executable code extracted from launchers, emulator binaries, driver binaries, BIOS, ROMs, media themes, saved progress and raw registry hives. The two USB INFs in evidence are text descriptions of the installed driver packages, not a working driver installation.
+
+## Reconstruction-audit additions
+
+The [Windows reconstruction audit](../docs/windows-reconstruction-audit.md) documents selected emulator HKCU observations, Windows/MUGEN shortcut metadata, additional standalone/global profiles and `emulators/mame-per-game-overrides.json`. The latter is deduplicated normalized XML with a source-path assignment index; coin/ticket counters and empty results are omitted. It is not a ROM collection, NVRAM backup or deployment script. Legacy binary PinMAME per-game CFG files are not represented by this XML archive and remain in the private backup. Captured `default.cfg` files may themselves use an engine-specific binary configuration format; a binary CFG is configuration, not an emulator executable.

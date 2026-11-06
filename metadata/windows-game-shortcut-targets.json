@@ -1,0 +1,218 @@
+[
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/limbo.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\LIMBO\\limbo.exe",
+    "relative_path": ".\\limbo.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\LIMBO"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Another World – 20th Anniversary Edition.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Another World – 20th Anniversary Edition\\anowor.exe",
+    "relative_path": ".\\anowor.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Another World – 20th Anniversary Edition"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/BRAWL.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\BRAWL\\BRAWL.exe",
+    "relative_path": ".\\BRAWL.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\BRAWL"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Crazy Taxi 2-in-1.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Crazy Taxi 2-in-1\\Crazy_Taxi_PC.exe",
+    "relative_path": ".\\Crazy_Taxi_PC.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Crazy Taxi 2-in-1"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Crazy Taxi 3.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Crazy Taxi 3\\CT3.exe",
+    "relative_path": ".\\CT3.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Crazy Taxi 3"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Metal Slug Collection PC.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Metal Slug Complete\\MetalSlug.exe",
+    "relative_path": ".\\MetalSlug.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Metal Slug Complete"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Naruto Shippuden - Ultimate Ninja Storm Revolution.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Naruto Shippuden - Ultimate Ninja Storm Revolution\\NSUNSR.exe",
+    "relative_path": ".\\NSUNSR.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Naruto Shippuden - Ultimate Ninja Storm Revolution"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/One Piece Pirate Warriors 3.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\One Piece Pirate Warriors 3\\oppw3.exe",
+    "relative_path": ".\\oppw3.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\One Piece Pirate Warriors 3"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/outrun 2006.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\OUTRUN2006\\OR2006C2C.EXE",
+    "relative_path": ".\\OR2006C2C.EXE",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\OUTRUN2006"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/PAC-MAN.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\PAC-Man\\PAC-MAN.exe",
+    "relative_path": ".\\PAC-MAN.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\PAC-Man"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Rayman Legends.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Rayman Legends\\Rayman Legends.exe",
+    "relative_path": ".\\Rayman Legends.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Rayman Legends"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Shank.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Shank\\Shank\\bin\\Shank.exe",
+    "relative_path": ".\\Shank.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Shank\\Shank\\bin"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Shank2.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\shank 2\\bin\\Shank2.exe",
+    "relative_path": ".\\Shank2.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\shank 2\\bin"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/streets of rage remake.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\StreetOfRageRemakev5\\SORRv5\\SorR.exe",
+    "relative_path": ".\\SorR.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\StreetOfRageRemakev5\\SORRv5"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/VT4.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\virtua tennis 4\\VT4.EXE",
+    "relative_path": ".\\VT4.EXE",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\virtua tennis 4"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/ZackZero.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\ZackZero\\ZackZero.exe",
+    "relative_path": ".\\ZackZero.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\ZackZero"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Double Dragon Neon.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Double Dragon Neon\\bin\\DoubleDragon.exe",
+    "relative_path": ".\\DoubleDragon.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Double Dragon Neon\\bin"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/DuckTales.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\DuckTales Remastered\\executable\\DuckTales.exe",
+    "relative_path": ".\\DuckTales.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\DuckTales Remastered\\executable"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/Fix-it Felix Jr.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Fix It Felix\\FIFJ.exe",
+    "relative_path": ".\\FIFJ.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\Fix It Felix"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/PC GAMES/lnk/hurrican.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\hurrican\\Hurrican\\hurrican.exe",
+    "relative_path": ".\\hurrican.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\PC GAMES\\Juegos\\hurrican\\Hurrican"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Cartoon Fighters 2010.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Cartoon fighters\\Cartoon Fighters 2010.exe",
+    "relative_path": "..\\JUEGOS\\Cartoon fighters\\Cartoon Fighters 2010.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Cartoon fighters"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Coruscation Mugen.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Coruscation Mugen\\Coruscation Mugen.exe",
+    "relative_path": "..\\JUEGOS\\Coruscation Mugen\\Coruscation Mugen.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Coruscation Mugen"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Dragon Ball Z Sagas.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Dragon ball Z Sagas Mugen\\Dragon Ball Z Sagas.exe",
+    "relative_path": "..\\JUEGOS\\Dragon ball Z Sagas Mugen\\Dragon Ball Z Sagas.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Dragon ball Z Sagas Mugen"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/DragonBall Z M.U.G.E.N Edition 2011.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Dragon Ball M.U.G.E.N Edition 2011\\DragonBall Z M.U.G.E.N Edition 2011.exe",
+    "relative_path": "..\\JUEGOS\\Dragon Ball M.U.G.E.N Edition 2011\\DragonBall Z M.U.G.E.N Edition 2011.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Dragon Ball M.U.G.E.N Edition 2011"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Hokuto no Ken.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Hokuto no Ken\\Hokuto no Ken.exe",
+    "relative_path": "..\\JUEGOS\\Hokuto no Ken\\Hokuto no Ken.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Hokuto no Ken"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/King Of Fighters Shining.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\King Of Fighters Shining\\King Of Fighters Shining\\King Of Fighters Shining.exe",
+    "relative_path": "..\\JUEGOS\\King Of Fighters Shining\\King Of Fighters Shining\\King Of Fighters Shining.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\King Of Fighters Shining\\King Of Fighters Shining"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Marvel vs Capcom 3 - Last Rise of Heroes.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Marvel vs Capcom 3 - Last Rise of Heroes\\Marvel vs Capcom 3 - Last Rise of Heroes.exe",
+    "relative_path": "..\\JUEGOS\\Marvel vs Capcom 3 - Last Rise of Heroes\\Marvel vs Capcom 3 - Last Rise of Heroes.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Marvel vs Capcom 3 - Last Rise of Heroes"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Megaman Battle - Robot Master Mayhem.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Megaman Battle - Robot Master Mayhem\\Megaman Battle - Robot Master Mayhem.exe",
+    "relative_path": "..\\JUEGOS\\Megaman Battle - Robot Master Mayhem\\Megaman Battle - Robot Master Mayhem.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Megaman Battle - Robot Master Mayhem"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Mortal Kombat Project 4.8.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Mortal Kombat Project 4.8\\Mortal Kombat Project 4.8.exe",
+    "relative_path": "..\\JUEGOS\\Mortal Kombat Project 4.8\\Mortal Kombat Project 4.8.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Mortal Kombat Project 4.8"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Mortal Kombat vs Street Fighter.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Mortal Kombat vs Street Fighter\\Mortal Kombat vs Street Fighter.exe",
+    "relative_path": "..\\JUEGOS\\Mortal Kombat vs Street Fighter\\Mortal Kombat vs Street Fighter.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Mortal Kombat vs Street Fighter"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Shades of Manhattan.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Shades of Manhattan\\Shades of Manhattan.exe",
+    "relative_path": "..\\JUEGOS\\Shades of Manhattan\\Shades of Manhattan.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Shades of Manhattan"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Super Marvel vs Capcom Eternity of Heroes.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\supermarvel vs capcom\\Super Marvel vs Capcom Eternity of Heroes.exe",
+    "relative_path": "..\\JUEGOS\\supermarvel vs capcom\\Super Marvel vs Capcom Eternity of Heroes.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\supermarvel vs capcom"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Super Street Fighter 2 Turbo HD Remix.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Super Street Fighter 2 Turbo HD Remix\\Super Street Fighter 2 Turbo HD Remix.EXE",
+    "relative_path": "..\\JUEGOS\\Super Street Fighter 2 Turbo HD Remix\\Super Street Fighter 2 Turbo HD Remix.EXE",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Super Street Fighter 2 Turbo HD Remix"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/Ultimate Mugen 2009.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Ultimate Mugen 2009\\Ultimate Mugen 2009.exe",
+    "relative_path": "..\\JUEGOS\\Ultimate Mugen 2009\\Ultimate Mugen 2009.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\Ultimate Mugen 2009"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/World Heroes.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\World Heroes MUGEN ANGALL\\World Heroes.exe",
+    "relative_path": "..\\JUEGOS\\World Heroes MUGEN ANGALL\\World Heroes.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\World Heroes MUGEN ANGALL"
+  },
+  {
+    "source": "hyperspin1.0/Emulators/Mugen/lnk/World Warriors X.lnk",
+    "target": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\World Warriors X\\World Warriors X.exe",
+    "relative_path": "..\\JUEGOS\\World Warriors X\\World Warriors X.exe",
+    "working_directory": "D:\\hyperspin1.0\\Emulators\\Mugen\\JUEGOS\\World Warriors X"
+  }
+]

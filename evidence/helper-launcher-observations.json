@@ -1,0 +1,14 @@
+{
+  "Hyperspin Launcher.exe": {
+    "sha256": "78c3c7bcc93c8add7207c4e086094f795d90e2a55d5d1adc5c45acd1e0ff8e78",
+    "bytes": 1087488,
+    "AutoHotkey_compiler_version": "1.1.24.02",
+    "observed_embedded_script_behavior": "Closes explorer.exe, launches D:\\hyperspin1.0\\hyperspin.exe, then exits."
+  },
+  "Task Bar.exe": {
+    "sha256": "9368cc7f350b141b90a73f98b5cba5a19ecc6993d5bd57d84699242da19424e7",
+    "bytes": 1087488,
+    "AutoHotkey_compiler_version": "1.1.24.02",
+    "observed_embedded_script_behavior": "Closes explorer.exe, sends Ctrl+T then Space, then exits."
+  }
+}

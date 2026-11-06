@@ -47,6 +47,10 @@ C:\ROMS contains only desktop.ini, VirtuaTennis2009/vt2009_save.bin and Zen Stud
 
 Full registry hives, unredacted kernel logs, hardware serial numbers, network addresses and activation material are intentionally excluded. The publication review is not a substitute for reviewing future contributions.
 
+## Windows reconstruction follow-up
+
+See the [reconstruction audit](windows-reconstruction-audit.md) for installed runtime versions, shortcut targets, additional keyboard/security observations, selected emulator-user registry settings and per-game XML overrides. These additions still do not replace private binaries, game data or user-profile backups.
+
 ## Remaining unknowns
 
 Installed monitor reference and EDID, audio hardware, RAM module references, power supplies, physical wiring, Mini-PAC board/firmware and WinIPAC export, shifted inputs and simultaneous-player behavior, exact secondary emulator/core versions, effective launcher overrides, and the precise binary patches applied to Windows loaders.

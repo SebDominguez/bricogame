@@ -31,6 +31,8 @@ The AutoHotkey script embedded in `tstart.exe` was inspected without executing i
 
 This replaces the normal Explorer shell for the configured Windows login. Classic Shell and Realtek audio-control startup entries also exist in the original image.
 
+The additional Startup-folder shortcut and the desktop helper wrappers were also resolved during the [reconstruction audit](windows-reconstruction-audit.md#startup-helper-behavior).
+
 ## Replacement Windows boot animation
 
 The active `C:\Windows\System32\bootres.dll` contains an embedded WIM with `activity.bmp`:

@@ -37,4 +37,4 @@ The archive preserves original names and source structure, including spaces and 
 
 The Windows installation contains or references DAEMON Tools Lite, Visual C++/.NET-related components, OpenAL, Games for Windows LIVE and Ubisoft software. A directory copy alone does not reproduce registry entries, runtime libraries, account access or game activation. Private user profiles and installed runtime components are not included here.
 
-Detailed engine/core versions, loaded module precedence, active standalone profiles, overrides per game and effective audio/video settings remain **TBD**.
+Additional global/control profiles and a deduplicated MAME-family per-game override archive were added during the [Windows reconstruction audit](windows-reconstruction-audit.md). Selected [emulator HKCU settings](../config/windows/emulator-user-registry.json) cover ePSXe, Visual Pinball, Future Pinball, Visual PinMAME and other inspected engine keys. Exact secondary engine/core versions, active module precedence and effective runtime behavior still require confirmation.

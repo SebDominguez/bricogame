@@ -1,0 +1,518 @@
+[
+  {
+    "registry_view": "native",
+    "DisplayName": "7-Zip 16.04 (x64)",
+    "DisplayVersion": "16.04",
+    "InstallLocation": "C:\\Program Files\\7-Zip\\",
+    "Publisher": "Igor Pavlov"
+  },
+  {
+    "registry_view": "native",
+    "DisplayName": "Nightly 29.0a1 (x64 en-US)",
+    "DisplayVersion": "29.0a1",
+    "InstallLocation": "C:\\Program Files\\Nightly",
+    "Publisher": "Mozilla"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "14.0.23026",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23026"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "4.5.51209",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft .NET Framework 4.5.2 (ESN)"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "8.0.916.0",
+    "InstallLocation": "C:\\Program Files\\AMD\\CIM\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "AMD Catalyst Install Manager"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "9.20.00.0",
+    "InstallLocation": "",
+    "Publisher": "Igor Pavlov",
+    "DisplayName": "7-Zip 9.20 (x64 edition)"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "4.5.51209",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft .NET Framework 4.5.2"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "2.07.0000",
+    "InstallLocation": "C:\\Program Files\\AMD\\SteadyVideo\\",
+    "Publisher": "AMD",
+    "DisplayName": "AMD Steady Video Plug-In "
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "1.0.0.15",
+    "InstallLocation": "C:\\Program Files\\Common Files\\ATI Technologies\\Multimedia\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "AMD Wireless Display v3.0"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "11.0.61030",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "13.30.100.50323",
+    "InstallLocation": "C:\\Program Files\\Common Files\\ATI Technologies\\Multimedia\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "AMD Accelerated Video Transcoding"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "2015.0323.2132.36856",
+    "InstallLocation": "C:\\Program Files\\ATI Technologies\\",
+    "Publisher": "Nombre de su organización",
+    "DisplayName": "AMD Fuel"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "12.0.21005",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005"
+  },
+  {
+    "registry_view": "native",
+    "DisplayName": "Microsoft .NET Framework 4.5.2",
+    "DisplayVersion": "4.5.51209",
+    "Publisher": "Microsoft Corporation",
+    "InstallLocation": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\SetupCache\\v4.5.51209\\"
+  },
+  {
+    "registry_view": "native",
+    "DisplayName": "Microsoft .NET Framework 4.5.2 (español)",
+    "DisplayVersion": "4.5.51209",
+    "Publisher": "Microsoft Corporation",
+    "InstallLocation": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\SetupCache\\v4.5.51209\\ESN\\"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "4.0.2",
+    "InstallLocation": "",
+    "Publisher": "IvoSoft",
+    "DisplayName": "Classic Shell"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "6.500.3165.0",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Windows Live ID Sign-in Assistant"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "12.0.21005",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "14.0.23026",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23026"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "11.0.61030",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "10.0.30319",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "2015.0323.2132.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "ccc-utility64"
+  },
+  {
+    "registry_view": "native",
+    "DisplayVersion": "9.0.21022",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "clrmamepro",
+    "DisplayVersion": "4.00.12.1",
+    "Publisher": "Roman Scherzer"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "InstallLocation": "C:\\Program Files\\FileZilla FTP Client",
+    "DisplayName": "FileZilla Client 3.28.0",
+    "DisplayVersion": "3.28.0",
+    "Publisher": "Tim Kosse"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "OpenAL 1.1 Core PC SDK (ver 3.05)",
+    "DisplayVersion": "3.05",
+    "InstallLocation": "C:\\Program Files (x86)\\OpenAL 1.1 SDK\\",
+    "Publisher": "Creative Labs"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "IrfanView (remove only)",
+    "Publisher": "Irfan Skiljan",
+    "InstallLocation": "\"C:\\Program Files (x86)\\IrfanView\\i_view32.exe\" \"%1\"",
+    "DisplayVersion": "4.37"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "KeyTweak - Keyboard Remapper (remove only)"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "InstallLocation": "C:\\Program Files (x86)\\K-Lite Codec Pack\\",
+    "DisplayName": "K-Lite Codec Pack 10.2.0 Full",
+    "DisplayVersion": "10.2.0"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "MAME Screensaver Version 0.95"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "OpenAL"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "Uplay",
+    "DisplayVersion": "15.0",
+    "Publisher": "Ubisoft",
+    "InstallLocation": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "WinUAE 2.5.1",
+    "DisplayVersion": "2.5.1",
+    "Publisher": "Arabuusimiehet"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help English"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+    "DisplayVersion": "12.0.30501.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help German"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Russian"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "10.0.30319",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "3.05",
+    "InstallLocation": "C:\\Program Files (x86)\\OpenAL 1.1 SDK\\",
+    "Publisher": "Creative Labs",
+    "DisplayName": "OpenAL 1.1 Core PC SDK (ver 3.05)"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Swedish"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727",
+    "DisplayVersion": "11.0.50727.1",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Korean"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Polish"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "7.0.130",
+    "InstallLocation": "C:\\Program Files (x86)\\Java\\jre7\\",
+    "Publisher": "Oracle",
+    "DisplayName": "Java 7 Update 13"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Spanish"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "4.0.20823.0",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft XNA Framework Redistributable 4.0"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "11.0.50727",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "InstallLocation": "C:\\Program Files (x86)\\TP-LINK\\TP-LINK Wireless Configuration Utility",
+    "DisplayName": "TP-LINK Wireless Configuration Utility",
+    "Publisher": "TP-LINK",
+    "DisplayVersion": "1.3.1"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2.1.9.0",
+    "InstallLocation": "",
+    "Publisher": "Sun Microsystems, Inc.",
+    "DisplayName": "Java Auto Updater"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Portuguese"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Finnish"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "3.5.50.0",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Games for Windows Marketplace"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Chinese Traditional"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help French"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Czech"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Italian"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Chinese Standard"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Hungarian"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Japanese"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Norwegian"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Dutch"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "InstallLocation": "C:\\Program Files (x86)\\Realtek\\NICDRV_8169",
+    "DisplayName": "Realtek Ethernet Controller Driver",
+    "Publisher": "Realtek",
+    "DisplayVersion": "7.92.115.2015"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Danish"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+    "DisplayVersion": "11.0.61030.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2132.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "Catalyst Control Center Localization All"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026",
+    "DisplayVersion": "14.0.23026.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2132.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "Catalyst Control Center InstallProxy"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2132.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Nombre de su organización",
+    "DisplayName": "AMD Catalyst Control Center"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayName": "Realtek High Definition Audio Driver",
+    "Publisher": "Realtek Semiconductor Corp.",
+    "DisplayVersion": "6.0.1.7534",
+    "InstallLocation": "C:\\Program Files\\Realtek\\Audio\\HDA"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "3.5.88.0",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Games for Windows - LIVE Redistributable"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Turkish"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Greek"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "2015.0323.2131.36856",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Advanced Micro Devices, Inc.",
+    "DisplayName": "CCC Help Thai"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "1.00.0000",
+    "InstallLocation": "C:\\Program Files (x86)\\ATI Technologies\\",
+    "Publisher": "Nombre de su organización",
+    "DisplayName": "OEM Application Profile"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "InstallLocation": "C:\\Program Files (x86)\\TP-LINK\\TP-LINK Wireless Configuration Utility",
+    "DisplayName": "TP-LINK TL-WN881ND Driver",
+    "Publisher": "TP-LINK",
+    "DisplayVersion": "1.3.1"
+  },
+  {
+    "registry_view": "Wow6432Node",
+    "DisplayVersion": "11.0.50727",
+    "InstallLocation": "",
+    "Publisher": "Microsoft Corporation",
+    "DisplayName": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727"
+  }
+]

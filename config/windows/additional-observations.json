@@ -1,0 +1,36 @@
+{
+  "Microsoft/Windows/CurrentVersion/Policies/System": {
+    "ConsentPromptBehaviorAdmin": 0,
+    "EnableLUA": 0
+  },
+  "Microsoft/Windows NT/CurrentVersion/Windows": {
+    "AppInit_DLLs": "",
+    "LoadAppInit_DLLs": 0
+  },
+  "arcade Keyboard Layout/Preload": {
+    "2": "00000409",
+    "1": "00000c0a"
+  },
+  "arcade Keyboard Layout/Substitutes": {
+    "00000c0a": "0000040a"
+  },
+  "arcade Control Panel/Keyboard": {
+    "KeyboardDelay": "1",
+    "KeyboardSpeed": "31",
+    "InitialKeyboardIndicators": "2"
+  },
+  "arcade Control Panel/International": {
+    "Locale": "00000c0a",
+    "LocaleName": "es-ES",
+    "sCountry": "España",
+    "sLanguage": "ESN"
+  },
+  "startup ProgramData/Microsoft/Windows/Start Menu/Programs/Startup": [
+    "desktop.ini",
+    "TP-LINK Wireless Configuration Utility.lnk"
+  ],
+  "startup Users/arcade/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup": [
+    "desktop.ini",
+    "TurboSheller.lnk"
+  ]
+}

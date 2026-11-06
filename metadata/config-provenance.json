@@ -1300,5 +1300,320 @@
     "source_sha256": "6f34fecd3b91f0e7e4043fd41ffafe1e22c6c540b989ed6fac13282e3a343f43",
     "published_sha256": "6f34fecd3b91f0e7e4043fd41ffafe1e22c6c540b989ed6fac13282e3a343f43",
     "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/Sega Naomi 0.7a Shooter/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/Sega Naomi 0.7a Shooter/padDemul.ini",
+    "source_sha256": "d6b424698d52f896aaa65169710d527c9495fa719ad64d66e2f50f4a0531b5c6",
+    "published_sha256": "d6b424698d52f896aaa65169710d527c9495fa719ad64d66e2f50f4a0531b5c6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/Sega Naomi 0.7a 180816 Shooter/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/Sega Naomi 0.7a 180816 Shooter/padDemul.ini",
+    "source_sha256": "d22ad8c3aa1725452493b49d10ce2e59f333833b9c4e0666b274caf17d6dbb7d",
+    "published_sha256": "d22ad8c3aa1725452493b49d10ce2e59f333833b9c4e0666b274caf17d6dbb7d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/Sega Naomi 0.7a 180816/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/Sega Naomi 0.7a 180816/padDemul.ini",
+    "source_sha256": "d22ad8c3aa1725452493b49d10ce2e59f333833b9c4e0666b274caf17d6dbb7d",
+    "published_sha256": "d22ad8c3aa1725452493b49d10ce2e59f333833b9c4e0666b274caf17d6dbb7d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/Sega Naomi 0.7a/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/Sega Naomi 0.7a/padDemul.ini",
+    "source_sha256": "d6b424698d52f896aaa65169710d527c9495fa719ad64d66e2f50f4a0531b5c6",
+    "published_sha256": "d6b424698d52f896aaa65169710d527c9495fa719ad64d66e2f50f4a0531b5c6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/Sega Naomi 0.58/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/Sega Naomi 0.58/padDemul.ini",
+    "source_sha256": "c36436f19ebf34317e1481fb51bfb73947d60a15760cf0fd3d6f77b4fe9739fa",
+    "published_sha256": "c36436f19ebf34317e1481fb51bfb73947d60a15760cf0fd3d6f77b4fe9739fa",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Naomi/Sega Naomi 0.57 Shooter/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Sega Naomi/Sega Naomi 0.57 Shooter/padDemul.ini",
+    "source_sha256": "1227dcff1c2b00706b1b23c64353e8ff2a56a69db5d85ec2e6a3973576cfddfa",
+    "published_sha256": "1227dcff1c2b00706b1b23c64353e8ff2a56a69db5d85ec2e6a3973576cfddfa",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Sega Game Gear/Retroarch/config/Genesis Plus GX.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Sega Game Gear/Retroarch/config/Genesis Plus GX.cfg",
+    "source_sha256": "937420ebf0887dc6b48f696faf4d1f84384e4e55a37be5c3349b3cff416dc240",
+    "published_sha256": "937420ebf0887dc6b48f696faf4d1f84384e4e55a37be5c3349b3cff416dc240",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Nintendo 64DD/Config/NRage.ini",
+    "source": "D:/hyperspin1.0/Emulators/Nintendo 64DD/Config/NRage.ini",
+    "source_sha256": "f10685284fdf2611e3e6b75b64c8448e3462139339d7c21fdfd399c25dc65501",
+    "published_sha256": "f10685284fdf2611e3e6b75b64c8448e3462139339d7c21fdfd399c25dc65501",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Nintendo 64DD/Config/Project64.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Nintendo 64DD/Config/Project64.cfg",
+    "source_sha256": "6e0ff4db03850d4f849e35eb19ceed3512f4c965afa51851839eb56f16a801ef",
+    "published_sha256": "6e0ff4db03850d4f849e35eb19ceed3512f4c965afa51851839eb56f16a801ef",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Retroarch/config/DeSmuME/CFG/TopBottom/retroarch-core-options.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Retroarch/config/DeSmuME/CFG/TopBottom/retroarch-core-options.cfg",
+    "source_sha256": "02f7b87ce65858150bc3272ecbff63afbc42d81106174f1c02eca14642bc86be",
+    "published_sha256": "02f7b87ce65858150bc3272ecbff63afbc42d81106174f1c02eca14642bc86be",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Retroarch/config/DeSmuME/CFG/Original/retroarch-core-options.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Retroarch/config/DeSmuME/CFG/Original/retroarch-core-options.cfg",
+    "source_sha256": "fd283bdf36bdc7bab23a696e30c63d8e3db074e0b25c6ad36e3a69b9dc3387c9",
+    "published_sha256": "fd283bdf36bdc7bab23a696e30c63d8e3db074e0b25c6ad36e3a69b9dc3387c9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Retroarch/config/DeSmuME/CFG/CFG Mod/retroarch-core-options.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Retroarch/config/DeSmuME/CFG/CFG Mod/retroarch-core-options.cfg",
+    "source_sha256": "20a86a3e43c9130b37a362f4bb45fe16a3102f6455fd2d3bc91db1d83abb4143",
+    "published_sha256": "20a86a3e43c9130b37a362f4bb45fe16a3102f6455fd2d3bc91db1d83abb4143",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Retroarch/config/DeSmuME/CFG/Bezel/retroarch-core-options.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Retroarch/config/DeSmuME/CFG/Bezel/retroarch-core-options.cfg",
+    "source_sha256": "20a86a3e43c9130b37a362f4bb45fe16a3102f6455fd2d3bc91db1d83abb4143",
+    "published_sha256": "20a86a3e43c9130b37a362f4bb45fe16a3102f6455fd2d3bc91db1d83abb4143",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Nintendo Game Boy Color/Retroarch/config/Gambatte.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Nintendo Game Boy Color/Retroarch/config/Gambatte.cfg",
+    "source_sha256": "a332a94bbf07181dd665134127993af71e2d5cc6066ce3cf72d788f8939319fd",
+    "published_sha256": "a332a94bbf07181dd665134127993af71e2d5cc6066ce3cf72d788f8939319fd",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Nintendo 64/Config/NRage.ini",
+    "source": "D:/hyperspin1.0/Emulators/Nintendo 64/Config/NRage.ini",
+    "source_sha256": "8664479a7514fd22d95f576617c9116bceda24d9684a56695875fc910e471ca4",
+    "published_sha256": "8664479a7514fd22d95f576617c9116bceda24d9684a56695875fc910e471ca4",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Nintendo 64/Config/Project64.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Nintendo 64/Config/Project64.cfg",
+    "source_sha256": "0b1c3bfd067f5e22f8ae306673eb4c58834114fac62431b6c7fb8411e2f8a9e2",
+    "published_sha256": "0b1c3bfd067f5e22f8ae306673eb4c58834114fac62431b6c7fb8411e2f8a9e2",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/World Warriors X/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/World Warriors X/data/mugen.cfg",
+    "source_sha256": "ffe6dac404f0fb02b486d49846c33e8c9f8f03d87b9c2020d0d3fa9079e621e6",
+    "published_sha256": "ffe6dac404f0fb02b486d49846c33e8c9f8f03d87b9c2020d0d3fa9079e621e6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/World Heroes MUGEN ANGALL/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/World Heroes MUGEN ANGALL/data/mugen.cfg",
+    "source_sha256": "2e30054c6ab1e87c74152225ed6762b1aeb0a7265588ea2789d143cc5ef7edc5",
+    "published_sha256": "2e30054c6ab1e87c74152225ed6762b1aeb0a7265588ea2789d143cc5ef7edc5",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/World Heroes MUGEN ANGALL/data/big/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/World Heroes MUGEN ANGALL/data/big/mugen.cfg",
+    "source_sha256": "688b403d6b19352e3875b7d9e814defcc2c72ab3b65f038c64c1c07c8a2cfd95",
+    "published_sha256": "688b403d6b19352e3875b7d9e814defcc2c72ab3b65f038c64c1c07c8a2cfd95",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Ultimate Mugen 2009/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Ultimate Mugen 2009/data/mugen.cfg",
+    "source_sha256": "8be0c17bc7ecc49eec23b162cff6ddc1a65eb97d51576e80d442fe7194642014",
+    "published_sha256": "8be0c17bc7ecc49eec23b162cff6ddc1a65eb97d51576e80d442fe7194642014",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/supermarvel vs capcom/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/supermarvel vs capcom/data/mugen.cfg",
+    "source_sha256": "49732136d52df1a0fc884fac458c69e27016fc2c6f0c1ddc495f2a564e20b7de",
+    "published_sha256": "49732136d52df1a0fc884fac458c69e27016fc2c6f0c1ddc495f2a564e20b7de",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Shades of Manhattan/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Shades of Manhattan/data/mugen.cfg",
+    "source_sha256": "c0c8141c8dd2c94e304cbc0fc3355da1a5052eead07ce93cc83ddadee3fbaf5c",
+    "published_sha256": "c0c8141c8dd2c94e304cbc0fc3355da1a5052eead07ce93cc83ddadee3fbaf5c",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Mortal Kombat vs Street Fighter/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Mortal Kombat vs Street Fighter/data/mugen.cfg",
+    "source_sha256": "fa640037564402d8a851016e64cbc3bcac324f6329e652c045d9106e25655597",
+    "published_sha256": "fa640037564402d8a851016e64cbc3bcac324f6329e652c045d9106e25655597",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Mortal Kombat Project 4.8/data/MUGEN.CFG",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Mortal Kombat Project 4.8/data/MUGEN.CFG",
+    "source_sha256": "b6111a6bcd340a2b74f9dfa5dcf271c237552b7cc00943062a43381fb2d22273",
+    "published_sha256": "b6111a6bcd340a2b74f9dfa5dcf271c237552b7cc00943062a43381fb2d22273",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Marvel vs Capcom 3 - Last Rise of Heroes/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Marvel vs Capcom 3 - Last Rise of Heroes/data/mugen.cfg",
+    "source_sha256": "9cd2dd2682eaae5721331523f0a0c3049f7bd14de3979dc442ae0cfc1565c959",
+    "published_sha256": "9cd2dd2682eaae5721331523f0a0c3049f7bd14de3979dc442ae0cfc1565c959",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Hokuto no Ken/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Hokuto no Ken/data/mugen.cfg",
+    "source_sha256": "c9f75f4a2a349916c228116097644e7412a189f16feca2793062f82ec782fca9",
+    "published_sha256": "c9f75f4a2a349916c228116097644e7412a189f16feca2793062f82ec782fca9",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Dragon ball Z Sagas Mugen/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Dragon ball Z Sagas Mugen/data/mugen.cfg",
+    "source_sha256": "83231232e2b8984c9658827d9b485ebb4a85bc9e6777a92f02a19fc03ffb4b95",
+    "published_sha256": "83231232e2b8984c9658827d9b485ebb4a85bc9e6777a92f02a19fc03ffb4b95",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Dragon Ball M.U.G.E.N Edition 2011/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Dragon Ball M.U.G.E.N Edition 2011/data/mugen.cfg",
+    "source_sha256": "e827b5e24df401f43ceba5036c60d2c4380e54e41a953ebfdb0f825cbf187a4d",
+    "published_sha256": "e827b5e24df401f43ceba5036c60d2c4380e54e41a953ebfdb0f825cbf187a4d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Coruscation Mugen/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Coruscation Mugen/data/mugen.cfg",
+    "source_sha256": "c145e724cb7f3080069ef9e63a589f6a0506930747b55179420b5dc60cac19bf",
+    "published_sha256": "c145e724cb7f3080069ef9e63a589f6a0506930747b55179420b5dc60cac19bf",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Cartoon fighters/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Cartoon fighters/data/mugen.cfg",
+    "source_sha256": "073f0da4c328132c502ebdbd5c85c16bc0e5b08b250cf78c30e8676533189089",
+    "published_sha256": "073f0da4c328132c502ebdbd5c85c16bc0e5b08b250cf78c30e8676533189089",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Mugen/JUEGOS/Megaman Battle - Robot Master Mayhem/data/mugen.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Mugen/JUEGOS/Megaman Battle - Robot Master Mayhem/data/mugen.cfg",
+    "source_sha256": "74fc4ed62a875f209d8ee9431d01bdad07610de2034de3aba42dcbd881d08c10",
+    "published_sha256": "74fc4ed62a875f209d8ee9431d01bdad07610de2034de3aba42dcbd881d08c10",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Gameboy/Retroarch/config/Gambatte.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Gameboy/Retroarch/config/Gambatte.cfg",
+    "source_sha256": "db47c135d67e810fc7a23f0a5c4d12e678f5f02d87efa2f577cac46fd8605240",
+    "published_sha256": "db47c135d67e810fc7a23f0a5c4d12e678f5f02d87efa2f577cac46fd8605240",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/Demul 0.7a 180816 Shooter/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/Demul 0.7a 180816 Shooter/padDemul.ini",
+    "source_sha256": "d22ad8c3aa1725452493b49d10ce2e59f333833b9c4e0666b274caf17d6dbb7d",
+    "published_sha256": "d22ad8c3aa1725452493b49d10ce2e59f333833b9c4e0666b274caf17d6dbb7d",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/Demul 0.7a/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/Demul 0.7a/padDemul.ini",
+    "source_sha256": "d6b424698d52f896aaa65169710d527c9495fa719ad64d66e2f50f4a0531b5c6",
+    "published_sha256": "d6b424698d52f896aaa65169710d527c9495fa719ad64d66e2f50f4a0531b5c6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/Demul 0.58/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/Demul 0.58/padDemul.ini",
+    "source_sha256": "d5c4b756e414dc6191013d6a5510361ea0ee388bc6eaac1408eeee4bc65da31c",
+    "published_sha256": "d5c4b756e414dc6191013d6a5510361ea0ee388bc6eaac1408eeee4bc65da31c",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atomiswave/Demul 0.57/padDemul.ini",
+    "source": "D:/hyperspin1.0/Emulators/Atomiswave/Demul 0.57/padDemul.ini",
+    "source_sha256": "1227dcff1c2b00706b1b23c64353e8ff2a56a69db5d85ec2e6a3973576cfddfa",
+    "published_sha256": "1227dcff1c2b00706b1b23c64353e8ff2a56a69db5d85ec2e6a3973576cfddfa",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Visual Pinball/vpinmame 2.5/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Visual Pinball/vpinmame 2.5/cfg/default.cfg",
+    "source_sha256": "bd28432124240f91012c1a1ba4b647d58da70a4566207b7fe3bde0e440e52836",
+    "published_sha256": "bd28432124240f91012c1a1ba4b647d58da70a4566207b7fe3bde0e440e52836",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Technos Arcade/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Technos Arcade/cfg/default.cfg",
+    "source_sha256": "27ec74c231097323584e6e34935861721c0bc996604b3b1191bd7383e3ced8cf",
+    "published_sha256": "27ec74c231097323584e6e34935861721c0bc996604b3b1191bd7383e3ced8cf",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Namco sistem 22/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Namco sistem 22/cfg/default.cfg",
+    "source_sha256": "c0597898bf2c193d2e0ec888de5fa3bb4cd41c6b96eb3fbfc90c9d16ec4c2db6",
+    "published_sha256": "c0597898bf2c193d2e0ec888de5fa3bb4cd41c6b96eb3fbfc90c9d16ec4c2db6",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/MAME Kaillera 0.9/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/MAME Kaillera 0.9/cfg/default.cfg",
+    "source_sha256": "64cb48facb98677d7d0c37196e64a955ef999c833217be6b0e85a994a4be6e5b",
+    "published_sha256": "64cb48facb98677d7d0c37196e64a955ef999c833217be6b0e85a994a4be6e5b",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Emerson Arcadia 2001/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Emerson Arcadia 2001/cfg/default.cfg",
+    "source_sha256": "2d48e6cb8ef78e299ed73f7c30bba7f25bdfc7a39120aa73fb9cc3ca42f9e895",
+    "published_sha256": "2d48e6cb8ef78e299ed73f7c30bba7f25bdfc7a39120aa73fb9cc3ca42f9e895",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/ColecoVision/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/ColecoVision/cfg/default.cfg",
+    "source_sha256": "5592fb6243f43a20761d82dfb6111d4cbec3aae079483334a35a1c19b20f8c52",
+    "published_sha256": "5592fb6243f43a20761d82dfb6111d4cbec3aae079483334a35a1c19b20f8c52",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Cave/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Cave/cfg/default.cfg",
+    "source_sha256": "13b632e11992d6e6dc5d62117a219f835e3271e3e4afe24cdbf6202d8e8bd0a7",
+    "published_sha256": "13b632e11992d6e6dc5d62117a219f835e3271e3e4afe24cdbf6202d8e8bd0a7",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atari 7800/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Atari 7800/cfg/default.cfg",
+    "source_sha256": "a1b40752a09fb4fe624641c1bddd5f92261950bc7af310640ba4f6e87115c6e4",
+    "published_sha256": "a1b40752a09fb4fe624641c1bddd5f92261950bc7af310640ba4f6e87115c6e4",
+    "sanitized": false
+  },
+  {
+    "repository_path": "config/emulators/Atari 5200/cfg/default.cfg",
+    "source": "D:/hyperspin1.0/Emulators/Atari 5200/cfg/default.cfg",
+    "source_sha256": "10d273a94477fdcb8124a98914a65f3703d5f13e3d48f91907f02016fd3e71df",
+    "published_sha256": "10d273a94477fdcb8124a98914a65f3703d5f13e3d48f91907f02016fd3e71df",
+    "sanitized": false
   }
 ]

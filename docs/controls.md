@@ -45,7 +45,7 @@ The physical labels below come from the owner's diagram. The mapping correlates 
 
 [Machine-readable mapping](../metadata/minipac-mapping.csv).
 
-`KEY_KP1`, `KEY_KP2` and `KEY_KP6` are **numeric-keypad** keys. They are not interchangeable with top-row `KEY_1`, `KEY_2` or `KEY_6`. Linux key identifiers also must not be confused with characters displayed by an AZERTY keyboard layout. NumLock and the Windows keyboard layout were not independently captured for this test.
+`KEY_KP1`, `KEY_KP2` and `KEY_KP6` are **numeric-keypad** keys. They are not interchangeable with top-row `KEY_1`, `KEY_2` or `KEY_6`. Linux key identifiers also must not be confused with characters displayed by an AZERTY keyboard layout. The later offline Windows-profile audit found Spanish/US layout entries and initial NumLock enabled for `arcade`; this is recorded configuration, not a live Windows confirmation during the input test. See [the reconstruction audit](windows-reconstruction-audit.md).
 
 The Linux inventory associated the main keyboard interface with `/dev/input/event3`, but that number is not stable across boots. To repeat the test under SystemRescue:
 

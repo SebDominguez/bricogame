@@ -1,0 +1,70 @@
+{
+  "Windows/System32/d3dx9_43.dll": {
+    "present": true,
+    "bytes": 2401112
+  },
+  "Windows/System32/D3DCompiler_43.dll": {
+    "present": true,
+    "bytes": 2526056
+  },
+  "Windows/System32/xinput1_3.dll": {
+    "present": true,
+    "bytes": 107368
+  },
+  "Windows/System32/OpenAL32.dll": {
+    "present": true,
+    "bytes": 122904
+  },
+  "Windows/System32/msvcr100.dll": {
+    "present": true,
+    "bytes": 827728
+  },
+  "Windows/System32/msvcp100.dll": {
+    "present": true,
+    "bytes": 607568
+  },
+  "Windows/System32/msvcr120.dll": {
+    "present": true,
+    "bytes": 963232
+  },
+  "Windows/System32/msvcp120.dll": {
+    "present": true,
+    "bytes": 660128
+  },
+  "Windows/SysWOW64/d3dx9_43.dll": {
+    "present": true,
+    "bytes": 1998168
+  },
+  "Windows/SysWOW64/D3DCompiler_43.dll": {
+    "present": true,
+    "bytes": 2106216
+  },
+  "Windows/SysWOW64/xinput1_3.dll": {
+    "present": true,
+    "bytes": 81768
+  },
+  "Windows/SysWOW64/OpenAL32.dll": {
+    "present": true,
+    "bytes": 109080
+  },
+  "Windows/SysWOW64/msvcr100.dll": {
+    "present": true,
+    "bytes": 773968
+  },
+  "Windows/SysWOW64/msvcp100.dll": {
+    "present": true,
+    "bytes": 421200
+  },
+  "Windows/SysWOW64/msvcr120.dll": {
+    "present": false
+  },
+  "Windows/SysWOW64/msvcp120.dll": {
+    "present": false
+  },
+  "Microsoft/DirectX": {
+    "Version": "4.09.00.0904"
+  },
+  "Wow6432Node/Microsoft/DirectX": {
+    "Version": "4.09.00.0904"
+  }
+}

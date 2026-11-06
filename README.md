@@ -19,6 +19,7 @@ This project is intended for other customers who want control over their own sys
 | Document | Contents |
 |---|---|
 | [Hardware](docs/hardware.md) | Components, BIOS, display/audio unknowns and disk layout |
+| [Windows reconstruction audit](docs/windows-reconstruction-audit.md) | Dependencies, restored settings, private assets and clean-install acceptance checklist |
 | [Windows and USB failure](docs/windows-and-usb.md) | Installed OS, actual controllers, driver mismatch and failure timeline |
 | [Startup and customization](docs/startup.md) | Automatic login, TurboSheller, replacement boot animation and black login resources |
 | [HyperSpin and HyperLaunch](docs/frontend.md) | Versions, folder layout, launch settings and configuration precedence |

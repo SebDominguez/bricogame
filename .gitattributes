@@ -1,2 +1,5 @@
 # Preserve captured configuration bytes and original line endings.
 * -text
+
+# Captured command output intentionally preserves its original spacing.
+evidence/linux-inventory/*.txt -whitespace
