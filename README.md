@@ -36,6 +36,6 @@ This project is intended for other customers who want control over their own sys
 - **Inference** means an interpretation that has not been established by a runtime test.
 - **TBD** means an important detail is still missing.
 
-The original image was opened read-only. Programs extracted from it were not executed during analysis. Configuration files describe recorded settings, which can differ from the settings actually loaded at runtime. The Linux controller test is not a firmware or EEPROM dump.
+The original image was opened read-only. Programs extracted from it were not executed during analysis. Configuration files describe recorded settings, which can differ from the settings actually loaded at runtime. The Linux controller test is not a firmware or EEPROM dump. The [sanitized SystemRescue inventory](evidence/linux-inventory/README.md) retains the detailed hardware observations behind the summary.
 
 Start with [the USB mismatch](docs/windows-and-usb.md) and [the measured controls](docs/controls.md): both matter when trying to understand the original setup. Do not apply registry observations or old startup patches blindly to a different Windows installation.

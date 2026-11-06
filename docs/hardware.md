@@ -61,4 +61,4 @@ Linux enumerated these as `/dev/sda1` and `/dev/sda2` in the supplied capture. D
 
 ## Rescue environment
 
-The inventory was captured using **SystemRescue**, with label `RESCUE1302` and boot path `/sysresccd/boot/x86_64/vmlinuz`, identifying a **13.02** rescue medium. The retained private inventory includes CPU, PCI, USB, input, SMBIOS, disk and kernel observations. The public repository deliberately omits raw logs containing network addresses or hardware serial numbers.
+The inventory was captured using **SystemRescue**, with label `RESCUE1302` and boot path `/sysresccd/boot/x86_64/vmlinuz`, identifying a **13.02** rescue medium. The captured inventory includes CPU, PCI, USB, input, SMBIOS, disk and kernel observations. A [sanitized copy of all nine captured files](../evidence/linux-inventory/README.md) is included. Unit serials and network identifiers are redacted; firewall packet lines are omitted.

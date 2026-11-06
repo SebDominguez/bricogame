@@ -1,0 +1,8 @@
+NAME     SIZE FSTYPE   LABEL      MOUNTPOINTS               MODEL
+loop0    1.1G squashfs            /run/archiso/sfs/airootfs 
+sda    931.5G                                               ST1000DM010-2EP102
+├─sda1  48.7G ntfs                                          
+└─sda2 882.7G ntfs     Nuevo vol                            
+sdb     29.3G iso9660  RESCUE1302                           ProductCode
+├─sdb1   1.3G iso9660  RESCUE1302 /run/archiso/bootmnt      
+└─sdb2   1.4M vfat                                          

@@ -1,0 +1,109 @@
+{
+  "source_archive": "arcade-inventory.tar.gz",
+  "source_archive_sha256": "a1909db5e0fab8fee73cbdc1b05290f08e9051dc8e93a7d26815411068da6b92",
+  "files": [
+    {
+      "file": "kernel.txt",
+      "source_bytes": 132789,
+      "published_bytes": 61463,
+      "source_sha256": "6c71c1202e729c0143501c7ef2d3ed98582b872ff46b3a53f5369f7f262f7e8c",
+      "published_sha256": "eba7aa71034135542baba5342fe33b5accdcd0a5c092fbbf75383851068201b5",
+      "redactions": {
+        "mac_addresses_redacted": 1,
+        "private_ip_addresses_redacted": 0,
+        "usb_serials_redacted": 2,
+        "firewall_packet_lines_omitted": 341
+      }
+    },
+    {
+      "file": "partitions.txt",
+      "source_bytes": 1158,
+      "published_bytes": 1158,
+      "source_sha256": "65baaa6653df39daec377a0bd74f6e7641db334528b0b78a49401a577208c91e",
+      "published_sha256": "65baaa6653df39daec377a0bd74f6e7641db334528b0b78a49401a577208c91e",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0
+      }
+    },
+    {
+      "file": "disks.txt",
+      "source_bytes": 538,
+      "published_bytes": 538,
+      "source_sha256": "327ff862bf173ae4741b40466907d6e2a82518631dfe3b846376f4159367a18a",
+      "published_sha256": "327ff862bf173ae4741b40466907d6e2a82518631dfe3b846376f4159367a18a",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0
+      }
+    },
+    {
+      "file": "input.txt",
+      "source_bytes": 5207,
+      "published_bytes": 5261,
+      "source_sha256": "51462ce916eeefc75edf792127a2410d1e10390526980594f660af1d25c499e1",
+      "published_sha256": "e1058a34cc9977545a2b68d0deb85072caafa3eca3a8c700ab0dfb8daf2e62ed",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0,
+        "input_unique_values_redacted": 6
+      }
+    },
+    {
+      "file": "usb-tree.txt",
+      "source_bytes": 928,
+      "published_bytes": 928,
+      "source_sha256": "8c79912680f67290534758f098545a750c02d63ff35a17974a71adc1aa8ceae7",
+      "published_sha256": "8c79912680f67290534758f098545a750c02d63ff35a17974a71adc1aa8ceae7",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0
+      }
+    },
+    {
+      "file": "usb.txt",
+      "source_bytes": 622,
+      "published_bytes": 622,
+      "source_sha256": "f2462c6ee024112fdcca43b10848faa313610acf798ae3f5c5c20da90d081e7e",
+      "published_sha256": "f2462c6ee024112fdcca43b10848faa313610acf798ae3f5c5c20da90d081e7e",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0
+      }
+    },
+    {
+      "file": "pci.txt",
+      "source_bytes": 5808,
+      "published_bytes": 5808,
+      "source_sha256": "691f722556f4c0adb2518a4f3a4c21a80ccdef478128853e7f88e2bb2a48fcb3",
+      "published_sha256": "691f722556f4c0adb2518a4f3a4c21a80ccdef478128853e7f88e2bb2a48fcb3",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0
+      }
+    },
+    {
+      "file": "hardware.txt",
+      "source_bytes": 3345,
+      "published_bytes": 3345,
+      "source_sha256": "b55f13cc170a4ffce989e19ddad0ac3031549eb8310f535c70af12814e8fad4e",
+      "published_sha256": "be180771fb470f248389b7687c00bc349f19cafad743d2e9227ec33a08a06dba",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0,
+        "hardware_serials_redacted": 1
+      }
+    },
+    {
+      "file": "cpu.txt",
+      "source_bytes": 3512,
+      "published_bytes": 3512,
+      "source_sha256": "1dbd84384b1d52b82311ad004dd9be0f0a93e9be98cb867ffc922718a1903962",
+      "published_sha256": "1dbd84384b1d52b82311ad004dd9be0f0a93e9be98cb867ffc922718a1903962",
+      "redactions": {
+        "mac_addresses_redacted": 0,
+        "private_ip_addresses_redacted": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Disk /dev/sda: 931.51 GiB, 1000204886016 bytes, 1953525168 sectors
+Disk model: ST1000DM010-2EP1
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+Disklabel type: dos
+Disk identifier: 0x1652460c
+
+Device     Boot     Start        End    Sectors   Size Id Type
+/dev/sda1  *       206848  102414374  102207527  48.7G  7 HPFS/NTFS/exFAT
+/dev/sda2       102414375 1953525167 1851110793 882.7G  7 HPFS/NTFS/exFAT
+
+
+
+Disk /dev/sdb: 29.3 GiB, 31457280000 bytes, 61440000 sectors
+Disk model: ProductCode     
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x7d1ee1ae
+
+Device     Boot Start     End Sectors Size Id Type
+/dev/sdb1  *        0 2698495 2698496 1.3G  0 Empty
+/dev/sdb2         252    3131    2880 1.4M ef EFI (FAT-12/16/32)
+
+
+Disk /dev/loop0: 1.08 GiB, 1154875392 bytes, 2255616 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes

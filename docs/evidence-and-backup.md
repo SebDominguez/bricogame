@@ -34,6 +34,8 @@ C:\ROMS contains only desktop.ini, VirtuaTennis2009/vt2009_save.bin and Zen Stud
 
 ## Public evidence
 
+- [Sanitized nine-file SystemRescue inventory](../evidence/linux-inventory/README.md), including full PCI/USB/input observations and captured kernel diagnostics.
+
 - [Raw Mini-PAC event capture](../evidence/minipac-evtest.txt).
 - [Physical panel diagram](../assets/control-panel.png), supplied by the owner.
 - [Launcher resource/script version observations and hashes](../evidence/launcher-versions.json).
@@ -43,7 +45,7 @@ C:\ROMS contains only desktop.ini, VirtuaTennis2009/vt2009_save.bin and Zen Stud
 - [Configuration provenance](../metadata/config-provenance.json): original/published SHA-256, source-relative location and sanitization status.
 - [Credential-field redaction record](../metadata/redactions.json), containing field names rather than removed values.
 
-Full registry hives, raw kernel logs, hardware serial numbers, network addresses and activation material are intentionally excluded. The publication review is not a substitute for reviewing future contributions.
+Full registry hives, unredacted kernel logs, hardware serial numbers, network addresses and activation material are intentionally excluded. The publication review is not a substitute for reviewing future contributions.
 
 ## Remaining unknowns
 
